@@ -1,0 +1,380 @@
+{local:{nombre:Leganes},visitante:{nombre:Alaves},fecha:{dia:18/08/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Valencia},visitante:{nombre:Las Palmas},fecha:{dia:18/08/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Celta},visitante:{nombre:Sociedad},fecha:{dia:19/08/2017,hora:00:00},resultado:2-3}
+{local:{nombre:Girona},visitante:{nombre:Ath Madrid},fecha:{dia:19/08/2017,hora:00:00},resultado:2-2}
+{local:{nombre:Sevilla},visitante:{nombre:Espanol},fecha:{dia:19/08/2017,hora:00:00},resultado:1-1}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Getafe},fecha:{dia:20/08/2017,hora:00:00},resultado:0-0}
+{local:{nombre:Barcelona},visitante:{nombre:Betis},fecha:{dia:20/08/2017,hora:00:00},resultado:2-0}
+{local:{nombre:La Coruna},visitante:{nombre:Real Madrid},fecha:{dia:20/08/2017,hora:00:00},resultado:0-3}
+{local:{nombre:Levante},visitante:{nombre:Villarreal},fecha:{dia:21/08/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Malaga},visitante:{nombre:Eibar},fecha:{dia:21/08/2017,hora:00:00},resultado:0-1}
+{local:{nombre:Betis},visitante:{nombre:Celta},fecha:{dia:25/08/2017,hora:00:00},resultado:2-1}
+{local:{nombre:Sociedad},visitante:{nombre:Villarreal},fecha:{dia:25/08/2017,hora:00:00},resultado:3-0}
+{local:{nombre:Alaves},visitante:{nombre:Barcelona},fecha:{dia:26/08/2017,hora:00:00},resultado:0-2}
+{local:{nombre:Girona},visitante:{nombre:Malaga},fecha:{dia:26/08/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Las Palmas},visitante:{nombre:Ath Madrid},fecha:{dia:26/08/2017,hora:00:00},resultado:1-5}
+{local:{nombre:Levante},visitante:{nombre:La Coruna},fecha:{dia:26/08/2017,hora:00:00},resultado:2-2}
+{local:{nombre:Eibar},visitante:{nombre:Ath Bilbao},fecha:{dia:27/08/2017,hora:00:00},resultado:0-1}
+{local:{nombre:Espanol},visitante:{nombre:Leganes},fecha:{dia:27/08/2017,hora:00:00},resultado:0-1}
+{local:{nombre:Getafe},visitante:{nombre:Sevilla},fecha:{dia:27/08/2017,hora:00:00},resultado:0-1}
+{local:{nombre:Real Madrid},visitante:{nombre:Valencia},fecha:{dia:27/08/2017,hora:00:00},resultado:2-2}
+{local:{nombre:Leganes},visitante:{nombre:Getafe},fecha:{dia:08/09/2017,hora:00:00},resultado:1-2}
+{local:{nombre:Barcelona},visitante:{nombre:Espanol},fecha:{dia:09/09/2017,hora:00:00},resultado:5-0}
+{local:{nombre:Real Madrid},visitante:{nombre:Levante},fecha:{dia:09/09/2017,hora:00:00},resultado:1-1}
+{local:{nombre:Sevilla},visitante:{nombre:Eibar},fecha:{dia:09/09/2017,hora:00:00},resultado:3-0}
+{local:{nombre:Valencia},visitante:{nombre:Ath Madrid},fecha:{dia:09/09/2017,hora:00:00},resultado:0-0}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Girona},fecha:{dia:10/09/2017,hora:00:00},resultado:2-0}
+{local:{nombre:Celta},visitante:{nombre:Alaves},fecha:{dia:10/09/2017,hora:00:00},resultado:1-0}
+{local:{nombre:La Coruna},visitante:{nombre:Sociedad},fecha:{dia:10/09/2017,hora:00:00},resultado:2-4}
+{local:{nombre:Villarreal},visitante:{nombre:Betis},fecha:{dia:10/09/2017,hora:00:00},resultado:3-1}
+{local:{nombre:Malaga},visitante:{nombre:Las Palmas},fecha:{dia:11/09/2017,hora:00:00},resultado:1-3}
+{local:{nombre:Eibar},visitante:{nombre:Leganes},fecha:{dia:15/09/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Ath Madrid},visitante:{nombre:Malaga},fecha:{dia:16/09/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Betis},visitante:{nombre:La Coruna},fecha:{dia:16/09/2017,hora:00:00},resultado:2-1}
+{local:{nombre:Getafe},visitante:{nombre:Barcelona},fecha:{dia:16/09/2017,hora:00:00},resultado:1-2}
+{local:{nombre:Levante},visitante:{nombre:Valencia},fecha:{dia:16/09/2017,hora:00:00},resultado:1-1}
+{local:{nombre:Alaves},visitante:{nombre:Villarreal},fecha:{dia:17/09/2017,hora:00:00},resultado:0-3}
+{local:{nombre:Girona},visitante:{nombre:Sevilla},fecha:{dia:17/09/2017,hora:00:00},resultado:0-1}
+{local:{nombre:Las Palmas},visitante:{nombre:Ath Bilbao},fecha:{dia:17/09/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Sociedad},visitante:{nombre:Real Madrid},fecha:{dia:17/09/2017,hora:00:00},resultado:1-3}
+{local:{nombre:Espanol},visitante:{nombre:Celta},fecha:{dia:18/09/2017,hora:00:00},resultado:2-1}
+{local:{nombre:Barcelona},visitante:{nombre:Eibar},fecha:{dia:19/09/2017,hora:00:00},resultado:6-1}
+{local:{nombre:Valencia},visitante:{nombre:Malaga},fecha:{dia:19/09/2017,hora:00:00},resultado:5-0}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Ath Madrid},fecha:{dia:20/09/2017,hora:00:00},resultado:1-2}
+{local:{nombre:La Coruna},visitante:{nombre:Alaves},fecha:{dia:20/09/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Leganes},visitante:{nombre:Girona},fecha:{dia:20/09/2017,hora:00:00},resultado:0-0}
+{local:{nombre:Real Madrid},visitante:{nombre:Betis},fecha:{dia:20/09/2017,hora:00:00},resultado:0-1}
+{local:{nombre:Sevilla},visitante:{nombre:Las Palmas},fecha:{dia:20/09/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Celta},visitante:{nombre:Getafe},fecha:{dia:21/09/2017,hora:00:00},resultado:1-1}
+{local:{nombre:Levante},visitante:{nombre:Sociedad},fecha:{dia:21/09/2017,hora:00:00},resultado:3-0}
+{local:{nombre:Villarreal},visitante:{nombre:Espanol},fecha:{dia:21/09/2017,hora:00:00},resultado:0-0}
+{local:{nombre:Alaves},visitante:{nombre:Real Madrid},fecha:{dia:23/09/2017,hora:00:00},resultado:1-2}
+{local:{nombre:Ath Madrid},visitante:{nombre:Sevilla},fecha:{dia:23/09/2017,hora:00:00},resultado:2-0}
+{local:{nombre:Girona},visitante:{nombre:Barcelona},fecha:{dia:23/09/2017,hora:00:00},resultado:0-3}
+{local:{nombre:Malaga},visitante:{nombre:Ath Bilbao},fecha:{dia:23/09/2017,hora:00:00},resultado:3-3}
+{local:{nombre:Eibar},visitante:{nombre:Celta},fecha:{dia:24/09/2017,hora:00:00},resultado:0-4}
+{local:{nombre:Espanol},visitante:{nombre:La Coruna},fecha:{dia:24/09/2017,hora:00:00},resultado:4-1}
+{local:{nombre:Getafe},visitante:{nombre:Villarreal},fecha:{dia:24/09/2017,hora:00:00},resultado:4-0}
+{local:{nombre:Las Palmas},visitante:{nombre:Leganes},fecha:{dia:24/09/2017,hora:00:00},resultado:0-2}
+{local:{nombre:Sociedad},visitante:{nombre:Valencia},fecha:{dia:24/09/2017,hora:00:00},resultado:2-3}
+{local:{nombre:Betis},visitante:{nombre:Levante},fecha:{dia:25/09/2017,hora:00:00},resultado:4-0}
+{local:{nombre:Celta},visitante:{nombre:Girona},fecha:{dia:29/09/2017,hora:00:00},resultado:3-3}
+{local:{nombre:La Coruna},visitante:{nombre:Getafe},fecha:{dia:30/09/2017,hora:00:00},resultado:2-1}
+{local:{nombre:Leganes},visitante:{nombre:Ath Madrid},fecha:{dia:30/09/2017,hora:00:00},resultado:0-0}
+{local:{nombre:Levante},visitante:{nombre:Alaves},fecha:{dia:30/09/2017,hora:00:00},resultado:0-2}
+{local:{nombre:Sevilla},visitante:{nombre:Malaga},fecha:{dia:30/09/2017,hora:00:00},resultado:2-0}
+{local:{nombre:Barcelona},visitante:{nombre:Las Palmas},fecha:{dia:01/10/2017,hora:00:00},resultado:3-0}
+{local:{nombre:Real Madrid},visitante:{nombre:Espanol},fecha:{dia:01/10/2017,hora:00:00},resultado:2-0}
+{local:{nombre:Sociedad},visitante:{nombre:Betis},fecha:{dia:01/10/2017,hora:00:00},resultado:4-4}
+{local:{nombre:Valencia},visitante:{nombre:Ath Bilbao},fecha:{dia:01/10/2017,hora:00:00},resultado:3-2}
+{local:{nombre:Villarreal},visitante:{nombre:Eibar},fecha:{dia:01/10/2017,hora:00:00},resultado:3-0}
+{local:{nombre:Espanol},visitante:{nombre:Levante},fecha:{dia:13/10/2017,hora:00:00},resultado:0-0}
+{local:{nombre:Alaves},visitante:{nombre:Sociedad},fecha:{dia:14/10/2017,hora:00:00},resultado:0-2}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Sevilla},fecha:{dia:14/10/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Ath Madrid},visitante:{nombre:Barcelona},fecha:{dia:14/10/2017,hora:00:00},resultado:1-1}
+{local:{nombre:Getafe},visitante:{nombre:Real Madrid},fecha:{dia:14/10/2017,hora:00:00},resultado:1-2}
+{local:{nombre:Betis},visitante:{nombre:Valencia},fecha:{dia:15/10/2017,hora:00:00},resultado:3-6}
+{local:{nombre:Eibar},visitante:{nombre:La Coruna},fecha:{dia:15/10/2017,hora:00:00},resultado:0-0}
+{local:{nombre:Girona},visitante:{nombre:Villarreal},fecha:{dia:15/10/2017,hora:00:00},resultado:1-2}
+{local:{nombre:Malaga},visitante:{nombre:Leganes},fecha:{dia:15/10/2017,hora:00:00},resultado:0-2}
+{local:{nombre:Las Palmas},visitante:{nombre:Celta},fecha:{dia:16/10/2017,hora:00:00},resultado:2-5}
+{local:{nombre:Barcelona},visitante:{nombre:Malaga},fecha:{dia:21/10/2017,hora:00:00},resultado:2-0}
+{local:{nombre:Betis},visitante:{nombre:Alaves},fecha:{dia:21/10/2017,hora:00:00},resultado:2-0}
+{local:{nombre:Levante},visitante:{nombre:Getafe},fecha:{dia:21/10/2017,hora:00:00},resultado:1-1}
+{local:{nombre:Valencia},visitante:{nombre:Sevilla},fecha:{dia:21/10/2017,hora:00:00},resultado:4-0}
+{local:{nombre:Celta},visitante:{nombre:Ath Madrid},fecha:{dia:22/10/2017,hora:00:00},resultado:0-1}
+{local:{nombre:Leganes},visitante:{nombre:Ath Bilbao},fecha:{dia:22/10/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Real Madrid},visitante:{nombre:Eibar},fecha:{dia:22/10/2017,hora:00:00},resultado:3-0}
+{local:{nombre:Villarreal},visitante:{nombre:Las Palmas},fecha:{dia:22/10/2017,hora:00:00},resultado:4-0}
+{local:{nombre:La Coruna},visitante:{nombre:Girona},fecha:{dia:23/10/2017,hora:00:00},resultado:1-2}
+{local:{nombre:Sociedad},visitante:{nombre:Espanol},fecha:{dia:23/10/2017,hora:00:00},resultado:1-1}
+{local:{nombre:Alaves},visitante:{nombre:Valencia},fecha:{dia:28/10/2017,hora:00:00},resultado:1-2}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Barcelona},fecha:{dia:28/10/2017,hora:00:00},resultado:0-2}
+{local:{nombre:Ath Madrid},visitante:{nombre:Villarreal},fecha:{dia:28/10/2017,hora:00:00},resultado:1-1}
+{local:{nombre:Sevilla},visitante:{nombre:Leganes},fecha:{dia:28/10/2017,hora:00:00},resultado:2-1}
+{local:{nombre:Eibar},visitante:{nombre:Levante},fecha:{dia:29/10/2017,hora:00:00},resultado:2-2}
+{local:{nombre:Getafe},visitante:{nombre:Sociedad},fecha:{dia:29/10/2017,hora:00:00},resultado:2-1}
+{local:{nombre:Girona},visitante:{nombre:Real Madrid},fecha:{dia:29/10/2017,hora:00:00},resultado:2-1}
+{local:{nombre:Malaga},visitante:{nombre:Celta},fecha:{dia:29/10/2017,hora:00:00},resultado:2-1}
+{local:{nombre:Espanol},visitante:{nombre:Betis},fecha:{dia:30/10/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Las Palmas},visitante:{nombre:La Coruna},fecha:{dia:30/10/2017,hora:00:00},resultado:1-3}
+{local:{nombre:Betis},visitante:{nombre:Getafe},fecha:{dia:03/11/2017,hora:00:00},resultado:2-2}
+{local:{nombre:Alaves},visitante:{nombre:Espanol},fecha:{dia:04/11/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Barcelona},visitante:{nombre:Sevilla},fecha:{dia:04/11/2017,hora:00:00},resultado:2-1}
+{local:{nombre:La Coruna},visitante:{nombre:Ath Madrid},fecha:{dia:04/11/2017,hora:00:00},resultado:0-1}
+{local:{nombre:Valencia},visitante:{nombre:Leganes},fecha:{dia:04/11/2017,hora:00:00},resultado:3-0}
+{local:{nombre:Celta},visitante:{nombre:Ath Bilbao},fecha:{dia:05/11/2017,hora:00:00},resultado:3-1}
+{local:{nombre:Levante},visitante:{nombre:Girona},fecha:{dia:05/11/2017,hora:00:00},resultado:1-2}
+{local:{nombre:Real Madrid},visitante:{nombre:Las Palmas},fecha:{dia:05/11/2017,hora:00:00},resultado:3-0}
+{local:{nombre:Sociedad},visitante:{nombre:Eibar},fecha:{dia:05/11/2017,hora:00:00},resultado:3-1}
+{local:{nombre:Villarreal},visitante:{nombre:Malaga},fecha:{dia:05/11/2017,hora:00:00},resultado:2-0}
+{local:{nombre:Girona},visitante:{nombre:Sociedad},fecha:{dia:17/11/2017,hora:00:00},resultado:1-1}
+{local:{nombre:Ath Madrid},visitante:{nombre:Real Madrid},fecha:{dia:18/11/2017,hora:00:00},resultado:0-0}
+{local:{nombre:Getafe},visitante:{nombre:Alaves},fecha:{dia:18/11/2017,hora:00:00},resultado:4-1}
+{local:{nombre:Leganes},visitante:{nombre:Barcelona},fecha:{dia:18/11/2017,hora:00:00},resultado:0-3}
+{local:{nombre:Sevilla},visitante:{nombre:Celta},fecha:{dia:18/11/2017,hora:00:00},resultado:2-1}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Villarreal},fecha:{dia:19/11/2017,hora:00:00},resultado:1-1}
+{local:{nombre:Espanol},visitante:{nombre:Valencia},fecha:{dia:19/11/2017,hora:00:00},resultado:0-2}
+{local:{nombre:Las Palmas},visitante:{nombre:Levante},fecha:{dia:19/11/2017,hora:00:00},resultado:0-2}
+{local:{nombre:Malaga},visitante:{nombre:La Coruna},fecha:{dia:19/11/2017,hora:00:00},resultado:3-2}
+{local:{nombre:Eibar},visitante:{nombre:Betis},fecha:{dia:20/11/2017,hora:00:00},resultado:5-0}
+{local:{nombre:Celta},visitante:{nombre:Leganes},fecha:{dia:24/11/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Alaves},visitante:{nombre:Eibar},fecha:{dia:25/11/2017,hora:00:00},resultado:1-2}
+{local:{nombre:Betis},visitante:{nombre:Girona},fecha:{dia:25/11/2017,hora:00:00},resultado:2-2}
+{local:{nombre:Levante},visitante:{nombre:Ath Madrid},fecha:{dia:25/11/2017,hora:00:00},resultado:0-5}
+{local:{nombre:Real Madrid},visitante:{nombre:Malaga},fecha:{dia:25/11/2017,hora:00:00},resultado:3-2}
+{local:{nombre:La Coruna},visitante:{nombre:Ath Bilbao},fecha:{dia:26/11/2017,hora:00:00},resultado:2-2}
+{local:{nombre:Sociedad},visitante:{nombre:Las Palmas},fecha:{dia:26/11/2017,hora:00:00},resultado:2-2}
+{local:{nombre:Valencia},visitante:{nombre:Barcelona},fecha:{dia:26/11/2017,hora:00:00},resultado:1-1}
+{local:{nombre:Villarreal},visitante:{nombre:Sevilla},fecha:{dia:26/11/2017,hora:00:00},resultado:2-3}
+{local:{nombre:Espanol},visitante:{nombre:Getafe},fecha:{dia:27/11/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Malaga},visitante:{nombre:Levante},fecha:{dia:01/12/2017,hora:00:00},resultado:0-0}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Real Madrid},fecha:{dia:02/12/2017,hora:00:00},resultado:0-0}
+{local:{nombre:Ath Madrid},visitante:{nombre:Sociedad},fecha:{dia:02/12/2017,hora:00:00},resultado:2-1}
+{local:{nombre:Barcelona},visitante:{nombre:Celta},fecha:{dia:02/12/2017,hora:00:00},resultado:2-2}
+{local:{nombre:Sevilla},visitante:{nombre:La Coruna},fecha:{dia:02/12/2017,hora:00:00},resultado:2-0}
+{local:{nombre:Eibar},visitante:{nombre:Espanol},fecha:{dia:03/12/2017,hora:00:00},resultado:3-1}
+{local:{nombre:Getafe},visitante:{nombre:Valencia},fecha:{dia:03/12/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Las Palmas},visitante:{nombre:Betis},fecha:{dia:03/12/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Leganes},visitante:{nombre:Villarreal},fecha:{dia:03/12/2017,hora:00:00},resultado:3-1}
+{local:{nombre:Girona},visitante:{nombre:Alaves},fecha:{dia:04/12/2017,hora:00:00},resultado:2-3}
+{local:{nombre:Alaves},visitante:{nombre:Las Palmas},fecha:{dia:08/12/2017,hora:00:00},resultado:2-0}
+{local:{nombre:Getafe},visitante:{nombre:Eibar},fecha:{dia:09/12/2017,hora:00:00},resultado:0-0}
+{local:{nombre:La Coruna},visitante:{nombre:Leganes},fecha:{dia:09/12/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Real Madrid},visitante:{nombre:Sevilla},fecha:{dia:09/12/2017,hora:00:00},resultado:5-0}
+{local:{nombre:Valencia},visitante:{nombre:Celta},fecha:{dia:09/12/2017,hora:00:00},resultado:2-1}
+{local:{nombre:Betis},visitante:{nombre:Ath Madrid},fecha:{dia:10/12/2017,hora:00:00},resultado:0-1}
+{local:{nombre:Levante},visitante:{nombre:Ath Bilbao},fecha:{dia:10/12/2017,hora:00:00},resultado:1-2}
+{local:{nombre:Sociedad},visitante:{nombre:Malaga},fecha:{dia:10/12/2017,hora:00:00},resultado:0-2}
+{local:{nombre:Villarreal},visitante:{nombre:Barcelona},fecha:{dia:10/12/2017,hora:00:00},resultado:0-2}
+{local:{nombre:Espanol},visitante:{nombre:Girona},fecha:{dia:11/12/2017,hora:00:00},resultado:0-1}
+{local:{nombre:Sevilla},visitante:{nombre:Levante},fecha:{dia:15/12/2017,hora:00:00},resultado:0-0}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Sociedad},fecha:{dia:16/12/2017,hora:00:00},resultado:0-0}
+{local:{nombre:Ath Madrid},visitante:{nombre:Alaves},fecha:{dia:16/12/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Eibar},visitante:{nombre:Valencia},fecha:{dia:16/12/2017,hora:00:00},resultado:2-1}
+{local:{nombre:Barcelona},visitante:{nombre:La Coruna},fecha:{dia:17/12/2017,hora:00:00},resultado:4-0}
+{local:{nombre:Celta},visitante:{nombre:Villarreal},fecha:{dia:17/12/2017,hora:00:00},resultado:0-1}
+{local:{nombre:Girona},visitante:{nombre:Getafe},fecha:{dia:17/12/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Las Palmas},visitante:{nombre:Espanol},fecha:{dia:17/12/2017,hora:00:00},resultado:2-2}
+{local:{nombre:Malaga},visitante:{nombre:Betis},fecha:{dia:18/12/2017,hora:00:00},resultado:0-2}
+{local:{nombre:Levante},visitante:{nombre:Leganes},fecha:{dia:19/12/2017,hora:00:00},resultado:0-0}
+{local:{nombre:Getafe},visitante:{nombre:Las Palmas},fecha:{dia:20/12/2017,hora:00:00},resultado:2-0}
+{local:{nombre:Sociedad},visitante:{nombre:Sevilla},fecha:{dia:20/12/2017,hora:00:00},resultado:3-1}
+{local:{nombre:Alaves},visitante:{nombre:Malaga},fecha:{dia:21/12/2017,hora:00:00},resultado:1-0}
+{local:{nombre:Eibar},visitante:{nombre:Girona},fecha:{dia:21/12/2017,hora:00:00},resultado:4-1}
+{local:{nombre:Betis},visitante:{nombre:Ath Bilbao},fecha:{dia:22/12/2017,hora:00:00},resultado:0-2}
+{local:{nombre:Espanol},visitante:{nombre:Ath Madrid},fecha:{dia:22/12/2017,hora:00:00},resultado:1-0}
+{local:{nombre:La Coruna},visitante:{nombre:Celta},fecha:{dia:23/12/2017,hora:00:00},resultado:1-3}
+{local:{nombre:Real Madrid},visitante:{nombre:Barcelona},fecha:{dia:23/12/2017,hora:00:00},resultado:0-3}
+{local:{nombre:Valencia},visitante:{nombre:Villarreal},fecha:{dia:23/12/2017,hora:00:00},resultado:0-1}
+{local:{nombre:Ath Madrid},visitante:{nombre:Getafe},fecha:{dia:06/01/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Las Palmas},visitante:{nombre:Eibar},fecha:{dia:06/01/2018,hora:00:00},resultado:1-2}
+{local:{nombre:Sevilla},visitante:{nombre:Betis},fecha:{dia:06/01/2018,hora:00:00},resultado:3-5}
+{local:{nombre:Valencia},visitante:{nombre:Girona},fecha:{dia:06/01/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Alaves},fecha:{dia:07/01/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Barcelona},visitante:{nombre:Levante},fecha:{dia:07/01/2018,hora:00:00},resultado:3-0}
+{local:{nombre:Celta},visitante:{nombre:Real Madrid},fecha:{dia:07/01/2018,hora:00:00},resultado:2-2}
+{local:{nombre:Leganes},visitante:{nombre:Sociedad},fecha:{dia:07/01/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Villarreal},visitante:{nombre:La Coruna},fecha:{dia:07/01/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Malaga},visitante:{nombre:Espanol},fecha:{dia:08/01/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Getafe},visitante:{nombre:Malaga},fecha:{dia:12/01/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Eibar},visitante:{nombre:Ath Madrid},fecha:{dia:13/01/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Girona},visitante:{nombre:Las Palmas},fecha:{dia:13/01/2018,hora:00:00},resultado:6-0}
+{local:{nombre:La Coruna},visitante:{nombre:Valencia},fecha:{dia:13/01/2018,hora:00:00},resultado:1-2}
+{local:{nombre:Real Madrid},visitante:{nombre:Villarreal},fecha:{dia:13/01/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Alaves},visitante:{nombre:Sevilla},fecha:{dia:14/01/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Espanol},visitante:{nombre:Ath Bilbao},fecha:{dia:14/01/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Levante},visitante:{nombre:Celta},fecha:{dia:14/01/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Sociedad},visitante:{nombre:Barcelona},fecha:{dia:14/01/2018,hora:00:00},resultado:2-4}
+{local:{nombre:Betis},visitante:{nombre:Leganes},fecha:{dia:15/01/2018,hora:00:00},resultado:3-2}
+{local:{nombre:Getafe},visitante:{nombre:Ath Bilbao},fecha:{dia:19/01/2018,hora:00:00},resultado:2-2}
+{local:{nombre:Ath Madrid},visitante:{nombre:Girona},fecha:{dia:20/01/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Espanol},visitante:{nombre:Sevilla},fecha:{dia:20/01/2018,hora:00:00},resultado:0-3}
+{local:{nombre:Las Palmas},visitante:{nombre:Valencia},fecha:{dia:20/01/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Villarreal},visitante:{nombre:Levante},fecha:{dia:20/01/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Alaves},visitante:{nombre:Leganes},fecha:{dia:21/01/2018,hora:00:00},resultado:2-2}
+{local:{nombre:Betis},visitante:{nombre:Barcelona},fecha:{dia:21/01/2018,hora:00:00},resultado:0-5}
+{local:{nombre:Real Madrid},visitante:{nombre:La Coruna},fecha:{dia:21/01/2018,hora:00:00},resultado:7-1}
+{local:{nombre:Sociedad},visitante:{nombre:Celta},fecha:{dia:21/01/2018,hora:00:00},resultado:1-2}
+{local:{nombre:Eibar},visitante:{nombre:Malaga},fecha:{dia:22/01/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Eibar},fecha:{dia:26/01/2018,hora:00:00},resultado:1-1}
+{local:{nombre:La Coruna},visitante:{nombre:Levante},fecha:{dia:27/01/2018,hora:00:00},resultado:2-2}
+{local:{nombre:Malaga},visitante:{nombre:Girona},fecha:{dia:27/01/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Valencia},visitante:{nombre:Real Madrid},fecha:{dia:27/01/2018,hora:00:00},resultado:1-4}
+{local:{nombre:Villarreal},visitante:{nombre:Sociedad},fecha:{dia:27/01/2018,hora:00:00},resultado:4-2}
+{local:{nombre:Ath Madrid},visitante:{nombre:Las Palmas},fecha:{dia:28/01/2018,hora:00:00},resultado:3-0}
+{local:{nombre:Barcelona},visitante:{nombre:Alaves},fecha:{dia:28/01/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Leganes},visitante:{nombre:Espanol},fecha:{dia:28/01/2018,hora:00:00},resultado:3-2}
+{local:{nombre:Sevilla},visitante:{nombre:Getafe},fecha:{dia:28/01/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Celta},visitante:{nombre:Betis},fecha:{dia:29/01/2018,hora:00:00},resultado:3-2}
+{local:{nombre:Sociedad},visitante:{nombre:La Coruna},fecha:{dia:02/02/2018,hora:00:00},resultado:5-0}
+{local:{nombre:Alaves},visitante:{nombre:Celta},fecha:{dia:03/02/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Betis},visitante:{nombre:Villarreal},fecha:{dia:03/02/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Eibar},visitante:{nombre:Sevilla},fecha:{dia:03/02/2018,hora:00:00},resultado:5-1}
+{local:{nombre:Levante},visitante:{nombre:Real Madrid},fecha:{dia:03/02/2018,hora:00:00},resultado:2-2}
+{local:{nombre:Ath Madrid},visitante:{nombre:Valencia},fecha:{dia:04/02/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Espanol},visitante:{nombre:Barcelona},fecha:{dia:04/02/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Getafe},visitante:{nombre:Leganes},fecha:{dia:04/02/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Girona},visitante:{nombre:Ath Bilbao},fecha:{dia:04/02/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Las Palmas},visitante:{nombre:Malaga},fecha:{dia:05/02/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Las Palmas},fecha:{dia:09/02/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Leganes},visitante:{nombre:Eibar},fecha:{dia:10/02/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Malaga},visitante:{nombre:Ath Madrid},fecha:{dia:10/02/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Real Madrid},visitante:{nombre:Sociedad},fecha:{dia:10/02/2018,hora:00:00},resultado:5-2}
+{local:{nombre:Villarreal},visitante:{nombre:Alaves},fecha:{dia:10/02/2018,hora:00:00},resultado:1-2}
+{local:{nombre:Barcelona},visitante:{nombre:Getafe},fecha:{dia:11/02/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Celta},visitante:{nombre:Espanol},fecha:{dia:11/02/2018,hora:00:00},resultado:2-2}
+{local:{nombre:Sevilla},visitante:{nombre:Girona},fecha:{dia:11/02/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Valencia},visitante:{nombre:Levante},fecha:{dia:11/02/2018,hora:00:00},resultado:3-1}
+{local:{nombre:La Coruna},visitante:{nombre:Betis},fecha:{dia:12/02/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Girona},visitante:{nombre:Leganes},fecha:{dia:16/02/2018,hora:00:00},resultado:3-0}
+{local:{nombre:Alaves},visitante:{nombre:La Coruna},fecha:{dia:17/02/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Eibar},visitante:{nombre:Barcelona},fecha:{dia:17/02/2018,hora:00:00},resultado:0-2}
+{local:{nombre:Las Palmas},visitante:{nombre:Sevilla},fecha:{dia:17/02/2018,hora:00:00},resultado:1-2}
+{local:{nombre:Malaga},visitante:{nombre:Valencia},fecha:{dia:17/02/2018,hora:00:00},resultado:1-2}
+{local:{nombre:Ath Madrid},visitante:{nombre:Ath Bilbao},fecha:{dia:18/02/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Betis},visitante:{nombre:Real Madrid},fecha:{dia:18/02/2018,hora:00:00},resultado:3-5}
+{local:{nombre:Espanol},visitante:{nombre:Villarreal},fecha:{dia:18/02/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Sociedad},visitante:{nombre:Levante},fecha:{dia:18/02/2018,hora:00:00},resultado:3-0}
+{local:{nombre:Getafe},visitante:{nombre:Celta},fecha:{dia:19/02/2018,hora:00:00},resultado:3-0}
+{local:{nombre:Leganes},visitante:{nombre:Real Madrid},fecha:{dia:21/02/2018,hora:00:00},resultado:1-3}
+{local:{nombre:La Coruna},visitante:{nombre:Espanol},fecha:{dia:23/02/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Barcelona},visitante:{nombre:Girona},fecha:{dia:24/02/2018,hora:00:00},resultado:6-1}
+{local:{nombre:Celta},visitante:{nombre:Eibar},fecha:{dia:24/02/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Leganes},visitante:{nombre:Las Palmas},fecha:{dia:24/02/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Real Madrid},visitante:{nombre:Alaves},fecha:{dia:24/02/2018,hora:00:00},resultado:4-0}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Malaga},fecha:{dia:25/02/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Sevilla},visitante:{nombre:Ath Madrid},fecha:{dia:25/02/2018,hora:00:00},resultado:2-5}
+{local:{nombre:Valencia},visitante:{nombre:Sociedad},fecha:{dia:25/02/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Villarreal},visitante:{nombre:Getafe},fecha:{dia:25/02/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Levante},visitante:{nombre:Betis},fecha:{dia:26/02/2018,hora:00:00},resultado:0-2}
+{local:{nombre:Espanol},visitante:{nombre:Real Madrid},fecha:{dia:27/02/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Girona},visitante:{nombre:Celta},fecha:{dia:27/02/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Valencia},fecha:{dia:28/02/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Ath Madrid},visitante:{nombre:Leganes},fecha:{dia:28/02/2018,hora:00:00},resultado:4-0}
+{local:{nombre:Eibar},visitante:{nombre:Villarreal},fecha:{dia:28/02/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Getafe},visitante:{nombre:La Coruna},fecha:{dia:28/02/2018,hora:00:00},resultado:3-0}
+{local:{nombre:Malaga},visitante:{nombre:Sevilla},fecha:{dia:28/02/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Alaves},visitante:{nombre:Levante},fecha:{dia:01/03/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Betis},visitante:{nombre:Sociedad},fecha:{dia:01/03/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Las Palmas},visitante:{nombre:Barcelona},fecha:{dia:01/03/2018,hora:00:00},resultado:1-1}
+{local:{nombre:La Coruna},visitante:{nombre:Eibar},fecha:{dia:03/03/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Leganes},visitante:{nombre:Malaga},fecha:{dia:03/03/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Real Madrid},visitante:{nombre:Getafe},fecha:{dia:03/03/2018,hora:00:00},resultado:3-1}
+{local:{nombre:Sevilla},visitante:{nombre:Ath Bilbao},fecha:{dia:03/03/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Villarreal},visitante:{nombre:Girona},fecha:{dia:03/03/2018,hora:00:00},resultado:0-2}
+{local:{nombre:Barcelona},visitante:{nombre:Ath Madrid},fecha:{dia:04/03/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Levante},visitante:{nombre:Espanol},fecha:{dia:04/03/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Sociedad},visitante:{nombre:Alaves},fecha:{dia:04/03/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Valencia},visitante:{nombre:Betis},fecha:{dia:04/03/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Celta},visitante:{nombre:Las Palmas},fecha:{dia:05/03/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Girona},visitante:{nombre:La Coruna},fecha:{dia:09/03/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Eibar},visitante:{nombre:Real Madrid},fecha:{dia:10/03/2018,hora:00:00},resultado:1-2}
+{local:{nombre:Getafe},visitante:{nombre:Levante},fecha:{dia:10/03/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Malaga},visitante:{nombre:Barcelona},fecha:{dia:10/03/2018,hora:00:00},resultado:0-2}
+{local:{nombre:Sevilla},visitante:{nombre:Valencia},fecha:{dia:10/03/2018,hora:00:00},resultado:0-2}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Leganes},fecha:{dia:11/03/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Ath Madrid},visitante:{nombre:Celta},fecha:{dia:11/03/2018,hora:00:00},resultado:3-0}
+{local:{nombre:Espanol},visitante:{nombre:Sociedad},fecha:{dia:11/03/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Las Palmas},visitante:{nombre:Villarreal},fecha:{dia:11/03/2018,hora:00:00},resultado:0-2}
+{local:{nombre:Alaves},visitante:{nombre:Betis},fecha:{dia:12/03/2018,hora:00:00},resultado:1-3}
+{local:{nombre:Levante},visitante:{nombre:Eibar},fecha:{dia:16/03/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Betis},visitante:{nombre:Espanol},fecha:{dia:17/03/2018,hora:00:00},resultado:3-0}
+{local:{nombre:La Coruna},visitante:{nombre:Las Palmas},fecha:{dia:17/03/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Sociedad},visitante:{nombre:Getafe},fecha:{dia:17/03/2018,hora:00:00},resultado:1-2}
+{local:{nombre:Valencia},visitante:{nombre:Alaves},fecha:{dia:17/03/2018,hora:00:00},resultado:3-1}
+{local:{nombre:Barcelona},visitante:{nombre:Ath Bilbao},fecha:{dia:18/03/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Celta},visitante:{nombre:Malaga},fecha:{dia:18/03/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Leganes},visitante:{nombre:Sevilla},fecha:{dia:18/03/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Real Madrid},visitante:{nombre:Girona},fecha:{dia:18/03/2018,hora:00:00},resultado:6-3}
+{local:{nombre:Villarreal},visitante:{nombre:Ath Madrid},fecha:{dia:18/03/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Celta},fecha:{dia:31/03/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Girona},visitante:{nombre:Levante},fecha:{dia:31/03/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Las Palmas},visitante:{nombre:Real Madrid},fecha:{dia:31/03/2018,hora:00:00},resultado:0-3}
+{local:{nombre:Sevilla},visitante:{nombre:Barcelona},fecha:{dia:31/03/2018,hora:00:00},resultado:2-2}
+{local:{nombre:Ath Madrid},visitante:{nombre:La Coruna},fecha:{dia:01/04/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Eibar},visitante:{nombre:Sociedad},fecha:{dia:01/04/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Espanol},visitante:{nombre:Alaves},fecha:{dia:01/04/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Leganes},visitante:{nombre:Valencia},fecha:{dia:01/04/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Malaga},visitante:{nombre:Villarreal},fecha:{dia:01/04/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Getafe},visitante:{nombre:Betis},fecha:{dia:02/04/2018,hora:00:00},resultado:0-1}
+{local:{nombre:La Coruna},visitante:{nombre:Malaga},fecha:{dia:06/04/2018,hora:00:00},resultado:3-2}
+{local:{nombre:Alaves},visitante:{nombre:Getafe},fecha:{dia:07/04/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Barcelona},visitante:{nombre:Leganes},fecha:{dia:07/04/2018,hora:00:00},resultado:3-1}
+{local:{nombre:Betis},visitante:{nombre:Eibar},fecha:{dia:07/04/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Celta},visitante:{nombre:Sevilla},fecha:{dia:07/04/2018,hora:00:00},resultado:4-0}
+{local:{nombre:Levante},visitante:{nombre:Las Palmas},fecha:{dia:08/04/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Real Madrid},visitante:{nombre:Ath Madrid},fecha:{dia:08/04/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Sociedad},visitante:{nombre:Girona},fecha:{dia:08/04/2018,hora:00:00},resultado:5-0}
+{local:{nombre:Valencia},visitante:{nombre:Espanol},fecha:{dia:08/04/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Villarreal},visitante:{nombre:Ath Bilbao},fecha:{dia:09/04/2018,hora:00:00},resultado:1-3}
+{local:{nombre:Girona},visitante:{nombre:Betis},fecha:{dia:13/04/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Ath Bilbao},visitante:{nombre:La Coruna},fecha:{dia:14/04/2018,hora:00:00},resultado:2-3}
+{local:{nombre:Barcelona},visitante:{nombre:Valencia},fecha:{dia:14/04/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Las Palmas},visitante:{nombre:Sociedad},fecha:{dia:14/04/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Leganes},visitante:{nombre:Celta},fecha:{dia:14/04/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Sevilla},visitante:{nombre:Villarreal},fecha:{dia:14/04/2018,hora:00:00},resultado:2-2}
+{local:{nombre:Ath Madrid},visitante:{nombre:Levante},fecha:{dia:15/04/2018,hora:00:00},resultado:3-0}
+{local:{nombre:Eibar},visitante:{nombre:Alaves},fecha:{dia:15/04/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Getafe},visitante:{nombre:Espanol},fecha:{dia:15/04/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Malaga},visitante:{nombre:Real Madrid},fecha:{dia:15/04/2018,hora:00:00},resultado:1-2}
+{local:{nombre:Celta},visitante:{nombre:Barcelona},fecha:{dia:17/04/2018,hora:00:00},resultado:2-2}
+{local:{nombre:La Coruna},visitante:{nombre:Sevilla},fecha:{dia:17/04/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Villarreal},visitante:{nombre:Leganes},fecha:{dia:17/04/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Espanol},visitante:{nombre:Eibar},fecha:{dia:18/04/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Real Madrid},visitante:{nombre:Ath Bilbao},fecha:{dia:18/04/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Valencia},visitante:{nombre:Getafe},fecha:{dia:18/04/2018,hora:00:00},resultado:1-2}
+{local:{nombre:Alaves},visitante:{nombre:Girona},fecha:{dia:19/04/2018,hora:00:00},resultado:1-2}
+{local:{nombre:Betis},visitante:{nombre:Las Palmas},fecha:{dia:19/04/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Levante},visitante:{nombre:Malaga},fecha:{dia:19/04/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Sociedad},visitante:{nombre:Ath Madrid},fecha:{dia:19/04/2018,hora:00:00},resultado:3-0}
+{local:{nombre:Leganes},visitante:{nombre:La Coruna},fecha:{dia:20/04/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Celta},visitante:{nombre:Valencia},fecha:{dia:21/04/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Eibar},visitante:{nombre:Getafe},fecha:{dia:21/04/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Ath Madrid},visitante:{nombre:Betis},fecha:{dia:22/04/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Girona},visitante:{nombre:Espanol},fecha:{dia:22/04/2018,hora:00:00},resultado:0-2}
+{local:{nombre:Las Palmas},visitante:{nombre:Alaves},fecha:{dia:22/04/2018,hora:00:00},resultado:0-4}
+{local:{nombre:Malaga},visitante:{nombre:Sociedad},fecha:{dia:22/04/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Levante},fecha:{dia:23/04/2018,hora:00:00},resultado:1-3}
+{local:{nombre:Levante},visitante:{nombre:Sevilla},fecha:{dia:27/04/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Espanol},visitante:{nombre:Las Palmas},fecha:{dia:28/04/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Real Madrid},visitante:{nombre:Leganes},fecha:{dia:28/04/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Sociedad},visitante:{nombre:Ath Bilbao},fecha:{dia:28/04/2018,hora:00:00},resultado:3-1}
+{local:{nombre:Villarreal},visitante:{nombre:Celta},fecha:{dia:28/04/2018,hora:00:00},resultado:4-1}
+{local:{nombre:Alaves},visitante:{nombre:Ath Madrid},fecha:{dia:29/04/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Getafe},visitante:{nombre:Girona},fecha:{dia:29/04/2018,hora:00:00},resultado:1-1}
+{local:{nombre:La Coruna},visitante:{nombre:Barcelona},fecha:{dia:29/04/2018,hora:00:00},resultado:2-4}
+{local:{nombre:Valencia},visitante:{nombre:Eibar},fecha:{dia:29/04/2018,hora:00:00},resultado:0-0}
+{local:{nombre:Betis},visitante:{nombre:Malaga},fecha:{dia:30/04/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Sevilla},visitante:{nombre:Sociedad},fecha:{dia:04/05/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Betis},fecha:{dia:05/05/2018,hora:00:00},resultado:2-0}
+{local:{nombre:Celta},visitante:{nombre:La Coruna},fecha:{dia:05/05/2018,hora:00:00},resultado:1-1}
+{local:{nombre:Girona},visitante:{nombre:Eibar},fecha:{dia:05/05/2018,hora:00:00},resultado:1-4}
+{local:{nombre:Villarreal},visitante:{nombre:Valencia},fecha:{dia:05/05/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Ath Madrid},visitante:{nombre:Espanol},fecha:{dia:06/05/2018,hora:00:00},resultado:0-2}
+{local:{nombre:Barcelona},visitante:{nombre:Real Madrid},fecha:{dia:06/05/2018,hora:00:00},resultado:2-2}
+{local:{nombre:Las Palmas},visitante:{nombre:Getafe},fecha:{dia:06/05/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Malaga},visitante:{nombre:Alaves},fecha:{dia:06/05/2018,hora:00:00},resultado:0-3}
+{local:{nombre:Leganes},visitante:{nombre:Levante},fecha:{dia:07/05/2018,hora:00:00},resultado:0-3}
+{local:{nombre:Barcelona},visitante:{nombre:Villarreal},fecha:{dia:09/05/2018,hora:00:00},resultado:5-1}
+{local:{nombre:Sevilla},visitante:{nombre:Real Madrid},fecha:{dia:09/05/2018,hora:00:00},resultado:3-2}
+{local:{nombre:Alaves},visitante:{nombre:Ath Bilbao},fecha:{dia:12/05/2018,hora:00:00},resultado:3-1}
+{local:{nombre:Betis},visitante:{nombre:Sevilla},fecha:{dia:12/05/2018,hora:00:00},resultado:2-2}
+{local:{nombre:Eibar},visitante:{nombre:Las Palmas},fecha:{dia:12/05/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Getafe},visitante:{nombre:Ath Madrid},fecha:{dia:12/05/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Girona},visitante:{nombre:Valencia},fecha:{dia:12/05/2018,hora:00:00},resultado:0-1}
+{local:{nombre:La Coruna},visitante:{nombre:Villarreal},fecha:{dia:12/05/2018,hora:00:00},resultado:2-4}
+{local:{nombre:Real Madrid},visitante:{nombre:Celta},fecha:{dia:12/05/2018,hora:00:00},resultado:6-0}
+{local:{nombre:Sociedad},visitante:{nombre:Leganes},fecha:{dia:12/05/2018,hora:00:00},resultado:3-2}
+{local:{nombre:Espanol},visitante:{nombre:Malaga},fecha:{dia:13/05/2018,hora:00:00},resultado:4-1}
+{local:{nombre:Levante},visitante:{nombre:Barcelona},fecha:{dia:13/05/2018,hora:00:00},resultado:5-4}
+{local:{nombre:Celta},visitante:{nombre:Levante},fecha:{dia:19/05/2018,hora:00:00},resultado:4-2}
+{local:{nombre:Las Palmas},visitante:{nombre:Girona},fecha:{dia:19/05/2018,hora:00:00},resultado:1-2}
+{local:{nombre:Leganes},visitante:{nombre:Betis},fecha:{dia:19/05/2018,hora:00:00},resultado:3-2}
+{local:{nombre:Malaga},visitante:{nombre:Getafe},fecha:{dia:19/05/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Sevilla},visitante:{nombre:Alaves},fecha:{dia:19/05/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Villarreal},visitante:{nombre:Real Madrid},fecha:{dia:19/05/2018,hora:00:00},resultado:2-2}
+{local:{nombre:Ath Bilbao},visitante:{nombre:Espanol},fecha:{dia:20/05/2018,hora:00:00},resultado:0-1}
+{local:{nombre:Ath Madrid},visitante:{nombre:Eibar},fecha:{dia:20/05/2018,hora:00:00},resultado:2-2}
+{local:{nombre:Barcelona},visitante:{nombre:Sociedad},fecha:{dia:20/05/2018,hora:00:00},resultado:1-0}
+{local:{nombre:Valencia},visitante:{nombre:La Coruna},fecha:{dia:20/05/2018,hora:00:00},resultado:2-1}
