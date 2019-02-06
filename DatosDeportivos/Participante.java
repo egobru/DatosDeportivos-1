@@ -4,7 +4,7 @@ import java.util.Map;
 
 public class Participante implements Identificable {
 	public static Map<String, Participante> mapaParticipantes = new HashMap<>();
-	private String nombre;
+	transient private String nombre;
 	private String id;
 	
 	public Participante() {
