@@ -1,22 +1,28 @@
 package com.acing.serial;
 
-import com.acing.eventos.Evento;
+import java.util.Date;
+
+import com.acing.eventos.Partido;
 import com.esotericsoftware.jsonbeans.Json;
 import com.esotericsoftware.jsonbeans.JsonSerializer;
 import com.esotericsoftware.jsonbeans.JsonValue;
 
-public class SerializadorEventos implements JsonSerializer<Evento> {
+public class SerializadorEventos implements JsonSerializer<Partido> {
 
 	@Override
-	public Evento read(Json arg0, JsonValue arg1, Class arg2) {
-		// TODO Auto-generated method stub
+	public Partido read(Json arg0, JsonValue arg1, Class arg2) {
+		
+		JsonValue jvDate = arg1.get("fecha");
+		SerializadorDate sd = (SerializadorDate) arg0.getSerializer(Date.class);
+		Date fecha = sd.read(arg0, jvDate, Date.class);
+		
 		return null;
 	}
 
 	@Override
-	public void write(Json arg0, Evento arg1, Class arg2) {
-		// TODO Auto-generated method stub
+	public void write(Json arg0, Partido arg1, Class arg2) {
 		
+		arg0.writeValue("fecha", arg1.getFecha());
 	}
 
 }

@@ -36,6 +36,7 @@ dependencies {
     // Usar libreria desde repositorio de github utilizando jitpack
     // Ver => https://jitpack.io/
     implementation 'com.github.esotericsoftware:jsonbeans:master'
+    implementation 'com.github.lanyuestudio:lanyucommon:master-SNAPSHOT'
 }
 
 // In this section you declare where to find the dependencies of your project

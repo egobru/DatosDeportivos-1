@@ -13,12 +13,26 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Date;
 
+import com.acing.eventos.Partido;
+import com.acing.eventos.Suceso;
 import com.acing.eventos.Evento;
+import com.acing.eventos.EventoDAO;
+import com.acing.eventos.EventoImpl;
 import com.acing.eventos.Participante;
 
-public class SerializadorCSV {
+public class SerializadorCSV implements EventoDAO{
 
-	public static Collection<Evento> getEventos(String rutaArchivo){
+	private final String ruta;
+	
+//	public void setRutaPorDefecto (String ruta) {
+//		this.ruta = ruta;
+//	}
+	
+	public SerializadorCSV(String ruta) {
+		this.ruta = ruta;
+	}
+	
+	public static Collection<? extends Evento> getEventos(String rutaArchivo){
 		Collection<Evento> eventosLeidos = new ArrayList<>();
 		
 		try (BufferedReader reader = new BufferedReader(
@@ -38,7 +52,7 @@ public class SerializadorCSV {
 		return eventosLeidos;
 	}
 	
-	public static Evento deserializarEvento(String linea) throws ParseException {
+	private static Partido deserializarEvento(String linea) throws ParseException {
 		String[] campos = linea.split(",");
 		String fechaString = campos[1];
 		String localString = campos[2];
@@ -53,19 +67,54 @@ public class SerializadorCSV {
 		Participante visitante = new Participante(visitanteString);
 		int golesLocal = Integer.parseInt(golesLocalString);
 		int golesVisitante = Integer.parseInt(golesVisitanteString);
-		String resultado = golesLocal + "-" + golesVisitante;
+//		String resultado = golesLocal + "-" + golesVisitante;
 		
-		// NO SE HACE ASI
-//		Evento miEvento = new Evento();
-//		miEvento.local = local;
-//		miEvento.visitante = visitante;
-//		miEvento.fecha = fecha;
-//		miEvento.golesLocal = golesLocal;
-//		miEvento.golesVisitante = golesVisitante;
+		Partido miEvento = new Partido(local, visitante, fecha);
 		
-		Evento miEvento = new Evento(local, visitante, fecha);
-		miEvento.setResultado(resultado);
+//		miEvento.setResultado(resultado);
+		addGoles(golesLocal, local, miEvento);
+		addGoles(golesVisitante, visitante, miEvento);
 		
 		return miEvento;
+	}
+	
+	private static void addGoles(int numeroGoles, Participante equipo, Evento miEvento) {
+		for(int i = 0; i < numeroGoles; i++) {
+			Suceso gol = new Suceso();
+			gol.setParticipante(equipo);
+			miEvento.addSuceso(gol);
+		}
+	}
+
+	
+	@Override
+	public Collection<? extends Evento> getEventos() {
+		return getEventos(ruta);
+	}
+	
+
+	@Override
+	public Collection<? extends Partido> getEventos(Date fecha) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	@Override
+	public <T extends Evento> Evento borrarEvento(Evento evento) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+	@Override
+	public <T extends Evento> boolean actualizarEvento(Evento evento) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public <T extends Evento> int guardarEventos(Evento... eventos) {
+		// TODO Auto-generated method stub
+		return 0;
 	}
 }

@@ -1,380 +1,380 @@
-{local:{nombre:Leganes},visitante:{nombre:Alaves},fecha:{dia:18/08/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Valencia},visitante:{nombre:Las Palmas},fecha:{dia:18/08/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Celta},visitante:{nombre:Sociedad},fecha:{dia:19/08/2017,hora:00:00},resultado:2-3}
-{local:{nombre:Girona},visitante:{nombre:Ath Madrid},fecha:{dia:19/08/2017,hora:00:00},resultado:2-2}
-{local:{nombre:Sevilla},visitante:{nombre:Espanol},fecha:{dia:19/08/2017,hora:00:00},resultado:1-1}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Getafe},fecha:{dia:20/08/2017,hora:00:00},resultado:0-0}
-{local:{nombre:Barcelona},visitante:{nombre:Betis},fecha:{dia:20/08/2017,hora:00:00},resultado:2-0}
-{local:{nombre:La Coruna},visitante:{nombre:Real Madrid},fecha:{dia:20/08/2017,hora:00:00},resultado:0-3}
-{local:{nombre:Levante},visitante:{nombre:Villarreal},fecha:{dia:21/08/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Malaga},visitante:{nombre:Eibar},fecha:{dia:21/08/2017,hora:00:00},resultado:0-1}
-{local:{nombre:Betis},visitante:{nombre:Celta},fecha:{dia:25/08/2017,hora:00:00},resultado:2-1}
-{local:{nombre:Sociedad},visitante:{nombre:Villarreal},fecha:{dia:25/08/2017,hora:00:00},resultado:3-0}
-{local:{nombre:Alaves},visitante:{nombre:Barcelona},fecha:{dia:26/08/2017,hora:00:00},resultado:0-2}
-{local:{nombre:Girona},visitante:{nombre:Malaga},fecha:{dia:26/08/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Las Palmas},visitante:{nombre:Ath Madrid},fecha:{dia:26/08/2017,hora:00:00},resultado:1-5}
-{local:{nombre:Levante},visitante:{nombre:La Coruna},fecha:{dia:26/08/2017,hora:00:00},resultado:2-2}
-{local:{nombre:Eibar},visitante:{nombre:Ath Bilbao},fecha:{dia:27/08/2017,hora:00:00},resultado:0-1}
-{local:{nombre:Espanol},visitante:{nombre:Leganes},fecha:{dia:27/08/2017,hora:00:00},resultado:0-1}
-{local:{nombre:Getafe},visitante:{nombre:Sevilla},fecha:{dia:27/08/2017,hora:00:00},resultado:0-1}
-{local:{nombre:Real Madrid},visitante:{nombre:Valencia},fecha:{dia:27/08/2017,hora:00:00},resultado:2-2}
-{local:{nombre:Leganes},visitante:{nombre:Getafe},fecha:{dia:08/09/2017,hora:00:00},resultado:1-2}
-{local:{nombre:Barcelona},visitante:{nombre:Espanol},fecha:{dia:09/09/2017,hora:00:00},resultado:5-0}
-{local:{nombre:Real Madrid},visitante:{nombre:Levante},fecha:{dia:09/09/2017,hora:00:00},resultado:1-1}
-{local:{nombre:Sevilla},visitante:{nombre:Eibar},fecha:{dia:09/09/2017,hora:00:00},resultado:3-0}
-{local:{nombre:Valencia},visitante:{nombre:Ath Madrid},fecha:{dia:09/09/2017,hora:00:00},resultado:0-0}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Girona},fecha:{dia:10/09/2017,hora:00:00},resultado:2-0}
-{local:{nombre:Celta},visitante:{nombre:Alaves},fecha:{dia:10/09/2017,hora:00:00},resultado:1-0}
-{local:{nombre:La Coruna},visitante:{nombre:Sociedad},fecha:{dia:10/09/2017,hora:00:00},resultado:2-4}
-{local:{nombre:Villarreal},visitante:{nombre:Betis},fecha:{dia:10/09/2017,hora:00:00},resultado:3-1}
-{local:{nombre:Malaga},visitante:{nombre:Las Palmas},fecha:{dia:11/09/2017,hora:00:00},resultado:1-3}
-{local:{nombre:Eibar},visitante:{nombre:Leganes},fecha:{dia:15/09/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Ath Madrid},visitante:{nombre:Malaga},fecha:{dia:16/09/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Betis},visitante:{nombre:La Coruna},fecha:{dia:16/09/2017,hora:00:00},resultado:2-1}
-{local:{nombre:Getafe},visitante:{nombre:Barcelona},fecha:{dia:16/09/2017,hora:00:00},resultado:1-2}
-{local:{nombre:Levante},visitante:{nombre:Valencia},fecha:{dia:16/09/2017,hora:00:00},resultado:1-1}
-{local:{nombre:Alaves},visitante:{nombre:Villarreal},fecha:{dia:17/09/2017,hora:00:00},resultado:0-3}
-{local:{nombre:Girona},visitante:{nombre:Sevilla},fecha:{dia:17/09/2017,hora:00:00},resultado:0-1}
-{local:{nombre:Las Palmas},visitante:{nombre:Ath Bilbao},fecha:{dia:17/09/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Sociedad},visitante:{nombre:Real Madrid},fecha:{dia:17/09/2017,hora:00:00},resultado:1-3}
-{local:{nombre:Espanol},visitante:{nombre:Celta},fecha:{dia:18/09/2017,hora:00:00},resultado:2-1}
-{local:{nombre:Barcelona},visitante:{nombre:Eibar},fecha:{dia:19/09/2017,hora:00:00},resultado:6-1}
-{local:{nombre:Valencia},visitante:{nombre:Malaga},fecha:{dia:19/09/2017,hora:00:00},resultado:5-0}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Ath Madrid},fecha:{dia:20/09/2017,hora:00:00},resultado:1-2}
-{local:{nombre:La Coruna},visitante:{nombre:Alaves},fecha:{dia:20/09/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Leganes},visitante:{nombre:Girona},fecha:{dia:20/09/2017,hora:00:00},resultado:0-0}
-{local:{nombre:Real Madrid},visitante:{nombre:Betis},fecha:{dia:20/09/2017,hora:00:00},resultado:0-1}
-{local:{nombre:Sevilla},visitante:{nombre:Las Palmas},fecha:{dia:20/09/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Celta},visitante:{nombre:Getafe},fecha:{dia:21/09/2017,hora:00:00},resultado:1-1}
-{local:{nombre:Levante},visitante:{nombre:Sociedad},fecha:{dia:21/09/2017,hora:00:00},resultado:3-0}
-{local:{nombre:Villarreal},visitante:{nombre:Espanol},fecha:{dia:21/09/2017,hora:00:00},resultado:0-0}
-{local:{nombre:Alaves},visitante:{nombre:Real Madrid},fecha:{dia:23/09/2017,hora:00:00},resultado:1-2}
-{local:{nombre:Ath Madrid},visitante:{nombre:Sevilla},fecha:{dia:23/09/2017,hora:00:00},resultado:2-0}
-{local:{nombre:Girona},visitante:{nombre:Barcelona},fecha:{dia:23/09/2017,hora:00:00},resultado:0-3}
-{local:{nombre:Malaga},visitante:{nombre:Ath Bilbao},fecha:{dia:23/09/2017,hora:00:00},resultado:3-3}
-{local:{nombre:Eibar},visitante:{nombre:Celta},fecha:{dia:24/09/2017,hora:00:00},resultado:0-4}
-{local:{nombre:Espanol},visitante:{nombre:La Coruna},fecha:{dia:24/09/2017,hora:00:00},resultado:4-1}
-{local:{nombre:Getafe},visitante:{nombre:Villarreal},fecha:{dia:24/09/2017,hora:00:00},resultado:4-0}
-{local:{nombre:Las Palmas},visitante:{nombre:Leganes},fecha:{dia:24/09/2017,hora:00:00},resultado:0-2}
-{local:{nombre:Sociedad},visitante:{nombre:Valencia},fecha:{dia:24/09/2017,hora:00:00},resultado:2-3}
-{local:{nombre:Betis},visitante:{nombre:Levante},fecha:{dia:25/09/2017,hora:00:00},resultado:4-0}
-{local:{nombre:Celta},visitante:{nombre:Girona},fecha:{dia:29/09/2017,hora:00:00},resultado:3-3}
-{local:{nombre:La Coruna},visitante:{nombre:Getafe},fecha:{dia:30/09/2017,hora:00:00},resultado:2-1}
-{local:{nombre:Leganes},visitante:{nombre:Ath Madrid},fecha:{dia:30/09/2017,hora:00:00},resultado:0-0}
-{local:{nombre:Levante},visitante:{nombre:Alaves},fecha:{dia:30/09/2017,hora:00:00},resultado:0-2}
-{local:{nombre:Sevilla},visitante:{nombre:Malaga},fecha:{dia:30/09/2017,hora:00:00},resultado:2-0}
-{local:{nombre:Barcelona},visitante:{nombre:Las Palmas},fecha:{dia:01/10/2017,hora:00:00},resultado:3-0}
-{local:{nombre:Real Madrid},visitante:{nombre:Espanol},fecha:{dia:01/10/2017,hora:00:00},resultado:2-0}
-{local:{nombre:Sociedad},visitante:{nombre:Betis},fecha:{dia:01/10/2017,hora:00:00},resultado:4-4}
-{local:{nombre:Valencia},visitante:{nombre:Ath Bilbao},fecha:{dia:01/10/2017,hora:00:00},resultado:3-2}
-{local:{nombre:Villarreal},visitante:{nombre:Eibar},fecha:{dia:01/10/2017,hora:00:00},resultado:3-0}
-{local:{nombre:Espanol},visitante:{nombre:Levante},fecha:{dia:13/10/2017,hora:00:00},resultado:0-0}
-{local:{nombre:Alaves},visitante:{nombre:Sociedad},fecha:{dia:14/10/2017,hora:00:00},resultado:0-2}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Sevilla},fecha:{dia:14/10/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Ath Madrid},visitante:{nombre:Barcelona},fecha:{dia:14/10/2017,hora:00:00},resultado:1-1}
-{local:{nombre:Getafe},visitante:{nombre:Real Madrid},fecha:{dia:14/10/2017,hora:00:00},resultado:1-2}
-{local:{nombre:Betis},visitante:{nombre:Valencia},fecha:{dia:15/10/2017,hora:00:00},resultado:3-6}
-{local:{nombre:Eibar},visitante:{nombre:La Coruna},fecha:{dia:15/10/2017,hora:00:00},resultado:0-0}
-{local:{nombre:Girona},visitante:{nombre:Villarreal},fecha:{dia:15/10/2017,hora:00:00},resultado:1-2}
-{local:{nombre:Malaga},visitante:{nombre:Leganes},fecha:{dia:15/10/2017,hora:00:00},resultado:0-2}
-{local:{nombre:Las Palmas},visitante:{nombre:Celta},fecha:{dia:16/10/2017,hora:00:00},resultado:2-5}
-{local:{nombre:Barcelona},visitante:{nombre:Malaga},fecha:{dia:21/10/2017,hora:00:00},resultado:2-0}
-{local:{nombre:Betis},visitante:{nombre:Alaves},fecha:{dia:21/10/2017,hora:00:00},resultado:2-0}
-{local:{nombre:Levante},visitante:{nombre:Getafe},fecha:{dia:21/10/2017,hora:00:00},resultado:1-1}
-{local:{nombre:Valencia},visitante:{nombre:Sevilla},fecha:{dia:21/10/2017,hora:00:00},resultado:4-0}
-{local:{nombre:Celta},visitante:{nombre:Ath Madrid},fecha:{dia:22/10/2017,hora:00:00},resultado:0-1}
-{local:{nombre:Leganes},visitante:{nombre:Ath Bilbao},fecha:{dia:22/10/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Real Madrid},visitante:{nombre:Eibar},fecha:{dia:22/10/2017,hora:00:00},resultado:3-0}
-{local:{nombre:Villarreal},visitante:{nombre:Las Palmas},fecha:{dia:22/10/2017,hora:00:00},resultado:4-0}
-{local:{nombre:La Coruna},visitante:{nombre:Girona},fecha:{dia:23/10/2017,hora:00:00},resultado:1-2}
-{local:{nombre:Sociedad},visitante:{nombre:Espanol},fecha:{dia:23/10/2017,hora:00:00},resultado:1-1}
-{local:{nombre:Alaves},visitante:{nombre:Valencia},fecha:{dia:28/10/2017,hora:00:00},resultado:1-2}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Barcelona},fecha:{dia:28/10/2017,hora:00:00},resultado:0-2}
-{local:{nombre:Ath Madrid},visitante:{nombre:Villarreal},fecha:{dia:28/10/2017,hora:00:00},resultado:1-1}
-{local:{nombre:Sevilla},visitante:{nombre:Leganes},fecha:{dia:28/10/2017,hora:00:00},resultado:2-1}
-{local:{nombre:Eibar},visitante:{nombre:Levante},fecha:{dia:29/10/2017,hora:00:00},resultado:2-2}
-{local:{nombre:Getafe},visitante:{nombre:Sociedad},fecha:{dia:29/10/2017,hora:00:00},resultado:2-1}
-{local:{nombre:Girona},visitante:{nombre:Real Madrid},fecha:{dia:29/10/2017,hora:00:00},resultado:2-1}
-{local:{nombre:Malaga},visitante:{nombre:Celta},fecha:{dia:29/10/2017,hora:00:00},resultado:2-1}
-{local:{nombre:Espanol},visitante:{nombre:Betis},fecha:{dia:30/10/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Las Palmas},visitante:{nombre:La Coruna},fecha:{dia:30/10/2017,hora:00:00},resultado:1-3}
-{local:{nombre:Betis},visitante:{nombre:Getafe},fecha:{dia:03/11/2017,hora:00:00},resultado:2-2}
-{local:{nombre:Alaves},visitante:{nombre:Espanol},fecha:{dia:04/11/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Barcelona},visitante:{nombre:Sevilla},fecha:{dia:04/11/2017,hora:00:00},resultado:2-1}
-{local:{nombre:La Coruna},visitante:{nombre:Ath Madrid},fecha:{dia:04/11/2017,hora:00:00},resultado:0-1}
-{local:{nombre:Valencia},visitante:{nombre:Leganes},fecha:{dia:04/11/2017,hora:00:00},resultado:3-0}
-{local:{nombre:Celta},visitante:{nombre:Ath Bilbao},fecha:{dia:05/11/2017,hora:00:00},resultado:3-1}
-{local:{nombre:Levante},visitante:{nombre:Girona},fecha:{dia:05/11/2017,hora:00:00},resultado:1-2}
-{local:{nombre:Real Madrid},visitante:{nombre:Las Palmas},fecha:{dia:05/11/2017,hora:00:00},resultado:3-0}
-{local:{nombre:Sociedad},visitante:{nombre:Eibar},fecha:{dia:05/11/2017,hora:00:00},resultado:3-1}
-{local:{nombre:Villarreal},visitante:{nombre:Malaga},fecha:{dia:05/11/2017,hora:00:00},resultado:2-0}
-{local:{nombre:Girona},visitante:{nombre:Sociedad},fecha:{dia:17/11/2017,hora:00:00},resultado:1-1}
-{local:{nombre:Ath Madrid},visitante:{nombre:Real Madrid},fecha:{dia:18/11/2017,hora:00:00},resultado:0-0}
-{local:{nombre:Getafe},visitante:{nombre:Alaves},fecha:{dia:18/11/2017,hora:00:00},resultado:4-1}
-{local:{nombre:Leganes},visitante:{nombre:Barcelona},fecha:{dia:18/11/2017,hora:00:00},resultado:0-3}
-{local:{nombre:Sevilla},visitante:{nombre:Celta},fecha:{dia:18/11/2017,hora:00:00},resultado:2-1}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Villarreal},fecha:{dia:19/11/2017,hora:00:00},resultado:1-1}
-{local:{nombre:Espanol},visitante:{nombre:Valencia},fecha:{dia:19/11/2017,hora:00:00},resultado:0-2}
-{local:{nombre:Las Palmas},visitante:{nombre:Levante},fecha:{dia:19/11/2017,hora:00:00},resultado:0-2}
-{local:{nombre:Malaga},visitante:{nombre:La Coruna},fecha:{dia:19/11/2017,hora:00:00},resultado:3-2}
-{local:{nombre:Eibar},visitante:{nombre:Betis},fecha:{dia:20/11/2017,hora:00:00},resultado:5-0}
-{local:{nombre:Celta},visitante:{nombre:Leganes},fecha:{dia:24/11/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Alaves},visitante:{nombre:Eibar},fecha:{dia:25/11/2017,hora:00:00},resultado:1-2}
-{local:{nombre:Betis},visitante:{nombre:Girona},fecha:{dia:25/11/2017,hora:00:00},resultado:2-2}
-{local:{nombre:Levante},visitante:{nombre:Ath Madrid},fecha:{dia:25/11/2017,hora:00:00},resultado:0-5}
-{local:{nombre:Real Madrid},visitante:{nombre:Malaga},fecha:{dia:25/11/2017,hora:00:00},resultado:3-2}
-{local:{nombre:La Coruna},visitante:{nombre:Ath Bilbao},fecha:{dia:26/11/2017,hora:00:00},resultado:2-2}
-{local:{nombre:Sociedad},visitante:{nombre:Las Palmas},fecha:{dia:26/11/2017,hora:00:00},resultado:2-2}
-{local:{nombre:Valencia},visitante:{nombre:Barcelona},fecha:{dia:26/11/2017,hora:00:00},resultado:1-1}
-{local:{nombre:Villarreal},visitante:{nombre:Sevilla},fecha:{dia:26/11/2017,hora:00:00},resultado:2-3}
-{local:{nombre:Espanol},visitante:{nombre:Getafe},fecha:{dia:27/11/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Malaga},visitante:{nombre:Levante},fecha:{dia:01/12/2017,hora:00:00},resultado:0-0}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Real Madrid},fecha:{dia:02/12/2017,hora:00:00},resultado:0-0}
-{local:{nombre:Ath Madrid},visitante:{nombre:Sociedad},fecha:{dia:02/12/2017,hora:00:00},resultado:2-1}
-{local:{nombre:Barcelona},visitante:{nombre:Celta},fecha:{dia:02/12/2017,hora:00:00},resultado:2-2}
-{local:{nombre:Sevilla},visitante:{nombre:La Coruna},fecha:{dia:02/12/2017,hora:00:00},resultado:2-0}
-{local:{nombre:Eibar},visitante:{nombre:Espanol},fecha:{dia:03/12/2017,hora:00:00},resultado:3-1}
-{local:{nombre:Getafe},visitante:{nombre:Valencia},fecha:{dia:03/12/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Las Palmas},visitante:{nombre:Betis},fecha:{dia:03/12/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Leganes},visitante:{nombre:Villarreal},fecha:{dia:03/12/2017,hora:00:00},resultado:3-1}
-{local:{nombre:Girona},visitante:{nombre:Alaves},fecha:{dia:04/12/2017,hora:00:00},resultado:2-3}
-{local:{nombre:Alaves},visitante:{nombre:Las Palmas},fecha:{dia:08/12/2017,hora:00:00},resultado:2-0}
-{local:{nombre:Getafe},visitante:{nombre:Eibar},fecha:{dia:09/12/2017,hora:00:00},resultado:0-0}
-{local:{nombre:La Coruna},visitante:{nombre:Leganes},fecha:{dia:09/12/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Real Madrid},visitante:{nombre:Sevilla},fecha:{dia:09/12/2017,hora:00:00},resultado:5-0}
-{local:{nombre:Valencia},visitante:{nombre:Celta},fecha:{dia:09/12/2017,hora:00:00},resultado:2-1}
-{local:{nombre:Betis},visitante:{nombre:Ath Madrid},fecha:{dia:10/12/2017,hora:00:00},resultado:0-1}
-{local:{nombre:Levante},visitante:{nombre:Ath Bilbao},fecha:{dia:10/12/2017,hora:00:00},resultado:1-2}
-{local:{nombre:Sociedad},visitante:{nombre:Malaga},fecha:{dia:10/12/2017,hora:00:00},resultado:0-2}
-{local:{nombre:Villarreal},visitante:{nombre:Barcelona},fecha:{dia:10/12/2017,hora:00:00},resultado:0-2}
-{local:{nombre:Espanol},visitante:{nombre:Girona},fecha:{dia:11/12/2017,hora:00:00},resultado:0-1}
-{local:{nombre:Sevilla},visitante:{nombre:Levante},fecha:{dia:15/12/2017,hora:00:00},resultado:0-0}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Sociedad},fecha:{dia:16/12/2017,hora:00:00},resultado:0-0}
-{local:{nombre:Ath Madrid},visitante:{nombre:Alaves},fecha:{dia:16/12/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Eibar},visitante:{nombre:Valencia},fecha:{dia:16/12/2017,hora:00:00},resultado:2-1}
-{local:{nombre:Barcelona},visitante:{nombre:La Coruna},fecha:{dia:17/12/2017,hora:00:00},resultado:4-0}
-{local:{nombre:Celta},visitante:{nombre:Villarreal},fecha:{dia:17/12/2017,hora:00:00},resultado:0-1}
-{local:{nombre:Girona},visitante:{nombre:Getafe},fecha:{dia:17/12/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Las Palmas},visitante:{nombre:Espanol},fecha:{dia:17/12/2017,hora:00:00},resultado:2-2}
-{local:{nombre:Malaga},visitante:{nombre:Betis},fecha:{dia:18/12/2017,hora:00:00},resultado:0-2}
-{local:{nombre:Levante},visitante:{nombre:Leganes},fecha:{dia:19/12/2017,hora:00:00},resultado:0-0}
-{local:{nombre:Getafe},visitante:{nombre:Las Palmas},fecha:{dia:20/12/2017,hora:00:00},resultado:2-0}
-{local:{nombre:Sociedad},visitante:{nombre:Sevilla},fecha:{dia:20/12/2017,hora:00:00},resultado:3-1}
-{local:{nombre:Alaves},visitante:{nombre:Malaga},fecha:{dia:21/12/2017,hora:00:00},resultado:1-0}
-{local:{nombre:Eibar},visitante:{nombre:Girona},fecha:{dia:21/12/2017,hora:00:00},resultado:4-1}
-{local:{nombre:Betis},visitante:{nombre:Ath Bilbao},fecha:{dia:22/12/2017,hora:00:00},resultado:0-2}
-{local:{nombre:Espanol},visitante:{nombre:Ath Madrid},fecha:{dia:22/12/2017,hora:00:00},resultado:1-0}
-{local:{nombre:La Coruna},visitante:{nombre:Celta},fecha:{dia:23/12/2017,hora:00:00},resultado:1-3}
-{local:{nombre:Real Madrid},visitante:{nombre:Barcelona},fecha:{dia:23/12/2017,hora:00:00},resultado:0-3}
-{local:{nombre:Valencia},visitante:{nombre:Villarreal},fecha:{dia:23/12/2017,hora:00:00},resultado:0-1}
-{local:{nombre:Ath Madrid},visitante:{nombre:Getafe},fecha:{dia:06/01/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Las Palmas},visitante:{nombre:Eibar},fecha:{dia:06/01/2018,hora:00:00},resultado:1-2}
-{local:{nombre:Sevilla},visitante:{nombre:Betis},fecha:{dia:06/01/2018,hora:00:00},resultado:3-5}
-{local:{nombre:Valencia},visitante:{nombre:Girona},fecha:{dia:06/01/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Alaves},fecha:{dia:07/01/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Barcelona},visitante:{nombre:Levante},fecha:{dia:07/01/2018,hora:00:00},resultado:3-0}
-{local:{nombre:Celta},visitante:{nombre:Real Madrid},fecha:{dia:07/01/2018,hora:00:00},resultado:2-2}
-{local:{nombre:Leganes},visitante:{nombre:Sociedad},fecha:{dia:07/01/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Villarreal},visitante:{nombre:La Coruna},fecha:{dia:07/01/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Malaga},visitante:{nombre:Espanol},fecha:{dia:08/01/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Getafe},visitante:{nombre:Malaga},fecha:{dia:12/01/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Eibar},visitante:{nombre:Ath Madrid},fecha:{dia:13/01/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Girona},visitante:{nombre:Las Palmas},fecha:{dia:13/01/2018,hora:00:00},resultado:6-0}
-{local:{nombre:La Coruna},visitante:{nombre:Valencia},fecha:{dia:13/01/2018,hora:00:00},resultado:1-2}
-{local:{nombre:Real Madrid},visitante:{nombre:Villarreal},fecha:{dia:13/01/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Alaves},visitante:{nombre:Sevilla},fecha:{dia:14/01/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Espanol},visitante:{nombre:Ath Bilbao},fecha:{dia:14/01/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Levante},visitante:{nombre:Celta},fecha:{dia:14/01/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Sociedad},visitante:{nombre:Barcelona},fecha:{dia:14/01/2018,hora:00:00},resultado:2-4}
-{local:{nombre:Betis},visitante:{nombre:Leganes},fecha:{dia:15/01/2018,hora:00:00},resultado:3-2}
-{local:{nombre:Getafe},visitante:{nombre:Ath Bilbao},fecha:{dia:19/01/2018,hora:00:00},resultado:2-2}
-{local:{nombre:Ath Madrid},visitante:{nombre:Girona},fecha:{dia:20/01/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Espanol},visitante:{nombre:Sevilla},fecha:{dia:20/01/2018,hora:00:00},resultado:0-3}
-{local:{nombre:Las Palmas},visitante:{nombre:Valencia},fecha:{dia:20/01/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Villarreal},visitante:{nombre:Levante},fecha:{dia:20/01/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Alaves},visitante:{nombre:Leganes},fecha:{dia:21/01/2018,hora:00:00},resultado:2-2}
-{local:{nombre:Betis},visitante:{nombre:Barcelona},fecha:{dia:21/01/2018,hora:00:00},resultado:0-5}
-{local:{nombre:Real Madrid},visitante:{nombre:La Coruna},fecha:{dia:21/01/2018,hora:00:00},resultado:7-1}
-{local:{nombre:Sociedad},visitante:{nombre:Celta},fecha:{dia:21/01/2018,hora:00:00},resultado:1-2}
-{local:{nombre:Eibar},visitante:{nombre:Malaga},fecha:{dia:22/01/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Eibar},fecha:{dia:26/01/2018,hora:00:00},resultado:1-1}
-{local:{nombre:La Coruna},visitante:{nombre:Levante},fecha:{dia:27/01/2018,hora:00:00},resultado:2-2}
-{local:{nombre:Malaga},visitante:{nombre:Girona},fecha:{dia:27/01/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Valencia},visitante:{nombre:Real Madrid},fecha:{dia:27/01/2018,hora:00:00},resultado:1-4}
-{local:{nombre:Villarreal},visitante:{nombre:Sociedad},fecha:{dia:27/01/2018,hora:00:00},resultado:4-2}
-{local:{nombre:Ath Madrid},visitante:{nombre:Las Palmas},fecha:{dia:28/01/2018,hora:00:00},resultado:3-0}
-{local:{nombre:Barcelona},visitante:{nombre:Alaves},fecha:{dia:28/01/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Leganes},visitante:{nombre:Espanol},fecha:{dia:28/01/2018,hora:00:00},resultado:3-2}
-{local:{nombre:Sevilla},visitante:{nombre:Getafe},fecha:{dia:28/01/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Celta},visitante:{nombre:Betis},fecha:{dia:29/01/2018,hora:00:00},resultado:3-2}
-{local:{nombre:Sociedad},visitante:{nombre:La Coruna},fecha:{dia:02/02/2018,hora:00:00},resultado:5-0}
-{local:{nombre:Alaves},visitante:{nombre:Celta},fecha:{dia:03/02/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Betis},visitante:{nombre:Villarreal},fecha:{dia:03/02/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Eibar},visitante:{nombre:Sevilla},fecha:{dia:03/02/2018,hora:00:00},resultado:5-1}
-{local:{nombre:Levante},visitante:{nombre:Real Madrid},fecha:{dia:03/02/2018,hora:00:00},resultado:2-2}
-{local:{nombre:Ath Madrid},visitante:{nombre:Valencia},fecha:{dia:04/02/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Espanol},visitante:{nombre:Barcelona},fecha:{dia:04/02/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Getafe},visitante:{nombre:Leganes},fecha:{dia:04/02/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Girona},visitante:{nombre:Ath Bilbao},fecha:{dia:04/02/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Las Palmas},visitante:{nombre:Malaga},fecha:{dia:05/02/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Las Palmas},fecha:{dia:09/02/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Leganes},visitante:{nombre:Eibar},fecha:{dia:10/02/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Malaga},visitante:{nombre:Ath Madrid},fecha:{dia:10/02/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Real Madrid},visitante:{nombre:Sociedad},fecha:{dia:10/02/2018,hora:00:00},resultado:5-2}
-{local:{nombre:Villarreal},visitante:{nombre:Alaves},fecha:{dia:10/02/2018,hora:00:00},resultado:1-2}
-{local:{nombre:Barcelona},visitante:{nombre:Getafe},fecha:{dia:11/02/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Celta},visitante:{nombre:Espanol},fecha:{dia:11/02/2018,hora:00:00},resultado:2-2}
-{local:{nombre:Sevilla},visitante:{nombre:Girona},fecha:{dia:11/02/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Valencia},visitante:{nombre:Levante},fecha:{dia:11/02/2018,hora:00:00},resultado:3-1}
-{local:{nombre:La Coruna},visitante:{nombre:Betis},fecha:{dia:12/02/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Girona},visitante:{nombre:Leganes},fecha:{dia:16/02/2018,hora:00:00},resultado:3-0}
-{local:{nombre:Alaves},visitante:{nombre:La Coruna},fecha:{dia:17/02/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Eibar},visitante:{nombre:Barcelona},fecha:{dia:17/02/2018,hora:00:00},resultado:0-2}
-{local:{nombre:Las Palmas},visitante:{nombre:Sevilla},fecha:{dia:17/02/2018,hora:00:00},resultado:1-2}
-{local:{nombre:Malaga},visitante:{nombre:Valencia},fecha:{dia:17/02/2018,hora:00:00},resultado:1-2}
-{local:{nombre:Ath Madrid},visitante:{nombre:Ath Bilbao},fecha:{dia:18/02/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Betis},visitante:{nombre:Real Madrid},fecha:{dia:18/02/2018,hora:00:00},resultado:3-5}
-{local:{nombre:Espanol},visitante:{nombre:Villarreal},fecha:{dia:18/02/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Sociedad},visitante:{nombre:Levante},fecha:{dia:18/02/2018,hora:00:00},resultado:3-0}
-{local:{nombre:Getafe},visitante:{nombre:Celta},fecha:{dia:19/02/2018,hora:00:00},resultado:3-0}
-{local:{nombre:Leganes},visitante:{nombre:Real Madrid},fecha:{dia:21/02/2018,hora:00:00},resultado:1-3}
-{local:{nombre:La Coruna},visitante:{nombre:Espanol},fecha:{dia:23/02/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Barcelona},visitante:{nombre:Girona},fecha:{dia:24/02/2018,hora:00:00},resultado:6-1}
-{local:{nombre:Celta},visitante:{nombre:Eibar},fecha:{dia:24/02/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Leganes},visitante:{nombre:Las Palmas},fecha:{dia:24/02/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Real Madrid},visitante:{nombre:Alaves},fecha:{dia:24/02/2018,hora:00:00},resultado:4-0}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Malaga},fecha:{dia:25/02/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Sevilla},visitante:{nombre:Ath Madrid},fecha:{dia:25/02/2018,hora:00:00},resultado:2-5}
-{local:{nombre:Valencia},visitante:{nombre:Sociedad},fecha:{dia:25/02/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Villarreal},visitante:{nombre:Getafe},fecha:{dia:25/02/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Levante},visitante:{nombre:Betis},fecha:{dia:26/02/2018,hora:00:00},resultado:0-2}
-{local:{nombre:Espanol},visitante:{nombre:Real Madrid},fecha:{dia:27/02/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Girona},visitante:{nombre:Celta},fecha:{dia:27/02/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Valencia},fecha:{dia:28/02/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Ath Madrid},visitante:{nombre:Leganes},fecha:{dia:28/02/2018,hora:00:00},resultado:4-0}
-{local:{nombre:Eibar},visitante:{nombre:Villarreal},fecha:{dia:28/02/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Getafe},visitante:{nombre:La Coruna},fecha:{dia:28/02/2018,hora:00:00},resultado:3-0}
-{local:{nombre:Malaga},visitante:{nombre:Sevilla},fecha:{dia:28/02/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Alaves},visitante:{nombre:Levante},fecha:{dia:01/03/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Betis},visitante:{nombre:Sociedad},fecha:{dia:01/03/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Las Palmas},visitante:{nombre:Barcelona},fecha:{dia:01/03/2018,hora:00:00},resultado:1-1}
-{local:{nombre:La Coruna},visitante:{nombre:Eibar},fecha:{dia:03/03/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Leganes},visitante:{nombre:Malaga},fecha:{dia:03/03/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Real Madrid},visitante:{nombre:Getafe},fecha:{dia:03/03/2018,hora:00:00},resultado:3-1}
-{local:{nombre:Sevilla},visitante:{nombre:Ath Bilbao},fecha:{dia:03/03/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Villarreal},visitante:{nombre:Girona},fecha:{dia:03/03/2018,hora:00:00},resultado:0-2}
-{local:{nombre:Barcelona},visitante:{nombre:Ath Madrid},fecha:{dia:04/03/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Levante},visitante:{nombre:Espanol},fecha:{dia:04/03/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Sociedad},visitante:{nombre:Alaves},fecha:{dia:04/03/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Valencia},visitante:{nombre:Betis},fecha:{dia:04/03/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Celta},visitante:{nombre:Las Palmas},fecha:{dia:05/03/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Girona},visitante:{nombre:La Coruna},fecha:{dia:09/03/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Eibar},visitante:{nombre:Real Madrid},fecha:{dia:10/03/2018,hora:00:00},resultado:1-2}
-{local:{nombre:Getafe},visitante:{nombre:Levante},fecha:{dia:10/03/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Malaga},visitante:{nombre:Barcelona},fecha:{dia:10/03/2018,hora:00:00},resultado:0-2}
-{local:{nombre:Sevilla},visitante:{nombre:Valencia},fecha:{dia:10/03/2018,hora:00:00},resultado:0-2}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Leganes},fecha:{dia:11/03/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Ath Madrid},visitante:{nombre:Celta},fecha:{dia:11/03/2018,hora:00:00},resultado:3-0}
-{local:{nombre:Espanol},visitante:{nombre:Sociedad},fecha:{dia:11/03/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Las Palmas},visitante:{nombre:Villarreal},fecha:{dia:11/03/2018,hora:00:00},resultado:0-2}
-{local:{nombre:Alaves},visitante:{nombre:Betis},fecha:{dia:12/03/2018,hora:00:00},resultado:1-3}
-{local:{nombre:Levante},visitante:{nombre:Eibar},fecha:{dia:16/03/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Betis},visitante:{nombre:Espanol},fecha:{dia:17/03/2018,hora:00:00},resultado:3-0}
-{local:{nombre:La Coruna},visitante:{nombre:Las Palmas},fecha:{dia:17/03/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Sociedad},visitante:{nombre:Getafe},fecha:{dia:17/03/2018,hora:00:00},resultado:1-2}
-{local:{nombre:Valencia},visitante:{nombre:Alaves},fecha:{dia:17/03/2018,hora:00:00},resultado:3-1}
-{local:{nombre:Barcelona},visitante:{nombre:Ath Bilbao},fecha:{dia:18/03/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Celta},visitante:{nombre:Malaga},fecha:{dia:18/03/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Leganes},visitante:{nombre:Sevilla},fecha:{dia:18/03/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Real Madrid},visitante:{nombre:Girona},fecha:{dia:18/03/2018,hora:00:00},resultado:6-3}
-{local:{nombre:Villarreal},visitante:{nombre:Ath Madrid},fecha:{dia:18/03/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Celta},fecha:{dia:31/03/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Girona},visitante:{nombre:Levante},fecha:{dia:31/03/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Las Palmas},visitante:{nombre:Real Madrid},fecha:{dia:31/03/2018,hora:00:00},resultado:0-3}
-{local:{nombre:Sevilla},visitante:{nombre:Barcelona},fecha:{dia:31/03/2018,hora:00:00},resultado:2-2}
-{local:{nombre:Ath Madrid},visitante:{nombre:La Coruna},fecha:{dia:01/04/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Eibar},visitante:{nombre:Sociedad},fecha:{dia:01/04/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Espanol},visitante:{nombre:Alaves},fecha:{dia:01/04/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Leganes},visitante:{nombre:Valencia},fecha:{dia:01/04/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Malaga},visitante:{nombre:Villarreal},fecha:{dia:01/04/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Getafe},visitante:{nombre:Betis},fecha:{dia:02/04/2018,hora:00:00},resultado:0-1}
-{local:{nombre:La Coruna},visitante:{nombre:Malaga},fecha:{dia:06/04/2018,hora:00:00},resultado:3-2}
-{local:{nombre:Alaves},visitante:{nombre:Getafe},fecha:{dia:07/04/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Barcelona},visitante:{nombre:Leganes},fecha:{dia:07/04/2018,hora:00:00},resultado:3-1}
-{local:{nombre:Betis},visitante:{nombre:Eibar},fecha:{dia:07/04/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Celta},visitante:{nombre:Sevilla},fecha:{dia:07/04/2018,hora:00:00},resultado:4-0}
-{local:{nombre:Levante},visitante:{nombre:Las Palmas},fecha:{dia:08/04/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Real Madrid},visitante:{nombre:Ath Madrid},fecha:{dia:08/04/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Sociedad},visitante:{nombre:Girona},fecha:{dia:08/04/2018,hora:00:00},resultado:5-0}
-{local:{nombre:Valencia},visitante:{nombre:Espanol},fecha:{dia:08/04/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Villarreal},visitante:{nombre:Ath Bilbao},fecha:{dia:09/04/2018,hora:00:00},resultado:1-3}
-{local:{nombre:Girona},visitante:{nombre:Betis},fecha:{dia:13/04/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Ath Bilbao},visitante:{nombre:La Coruna},fecha:{dia:14/04/2018,hora:00:00},resultado:2-3}
-{local:{nombre:Barcelona},visitante:{nombre:Valencia},fecha:{dia:14/04/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Las Palmas},visitante:{nombre:Sociedad},fecha:{dia:14/04/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Leganes},visitante:{nombre:Celta},fecha:{dia:14/04/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Sevilla},visitante:{nombre:Villarreal},fecha:{dia:14/04/2018,hora:00:00},resultado:2-2}
-{local:{nombre:Ath Madrid},visitante:{nombre:Levante},fecha:{dia:15/04/2018,hora:00:00},resultado:3-0}
-{local:{nombre:Eibar},visitante:{nombre:Alaves},fecha:{dia:15/04/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Getafe},visitante:{nombre:Espanol},fecha:{dia:15/04/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Malaga},visitante:{nombre:Real Madrid},fecha:{dia:15/04/2018,hora:00:00},resultado:1-2}
-{local:{nombre:Celta},visitante:{nombre:Barcelona},fecha:{dia:17/04/2018,hora:00:00},resultado:2-2}
-{local:{nombre:La Coruna},visitante:{nombre:Sevilla},fecha:{dia:17/04/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Villarreal},visitante:{nombre:Leganes},fecha:{dia:17/04/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Espanol},visitante:{nombre:Eibar},fecha:{dia:18/04/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Real Madrid},visitante:{nombre:Ath Bilbao},fecha:{dia:18/04/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Valencia},visitante:{nombre:Getafe},fecha:{dia:18/04/2018,hora:00:00},resultado:1-2}
-{local:{nombre:Alaves},visitante:{nombre:Girona},fecha:{dia:19/04/2018,hora:00:00},resultado:1-2}
-{local:{nombre:Betis},visitante:{nombre:Las Palmas},fecha:{dia:19/04/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Levante},visitante:{nombre:Malaga},fecha:{dia:19/04/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Sociedad},visitante:{nombre:Ath Madrid},fecha:{dia:19/04/2018,hora:00:00},resultado:3-0}
-{local:{nombre:Leganes},visitante:{nombre:La Coruna},fecha:{dia:20/04/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Celta},visitante:{nombre:Valencia},fecha:{dia:21/04/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Eibar},visitante:{nombre:Getafe},fecha:{dia:21/04/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Ath Madrid},visitante:{nombre:Betis},fecha:{dia:22/04/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Girona},visitante:{nombre:Espanol},fecha:{dia:22/04/2018,hora:00:00},resultado:0-2}
-{local:{nombre:Las Palmas},visitante:{nombre:Alaves},fecha:{dia:22/04/2018,hora:00:00},resultado:0-4}
-{local:{nombre:Malaga},visitante:{nombre:Sociedad},fecha:{dia:22/04/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Levante},fecha:{dia:23/04/2018,hora:00:00},resultado:1-3}
-{local:{nombre:Levante},visitante:{nombre:Sevilla},fecha:{dia:27/04/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Espanol},visitante:{nombre:Las Palmas},fecha:{dia:28/04/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Real Madrid},visitante:{nombre:Leganes},fecha:{dia:28/04/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Sociedad},visitante:{nombre:Ath Bilbao},fecha:{dia:28/04/2018,hora:00:00},resultado:3-1}
-{local:{nombre:Villarreal},visitante:{nombre:Celta},fecha:{dia:28/04/2018,hora:00:00},resultado:4-1}
-{local:{nombre:Alaves},visitante:{nombre:Ath Madrid},fecha:{dia:29/04/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Getafe},visitante:{nombre:Girona},fecha:{dia:29/04/2018,hora:00:00},resultado:1-1}
-{local:{nombre:La Coruna},visitante:{nombre:Barcelona},fecha:{dia:29/04/2018,hora:00:00},resultado:2-4}
-{local:{nombre:Valencia},visitante:{nombre:Eibar},fecha:{dia:29/04/2018,hora:00:00},resultado:0-0}
-{local:{nombre:Betis},visitante:{nombre:Malaga},fecha:{dia:30/04/2018,hora:00:00},resultado:2-1}
-{local:{nombre:Sevilla},visitante:{nombre:Sociedad},fecha:{dia:04/05/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Betis},fecha:{dia:05/05/2018,hora:00:00},resultado:2-0}
-{local:{nombre:Celta},visitante:{nombre:La Coruna},fecha:{dia:05/05/2018,hora:00:00},resultado:1-1}
-{local:{nombre:Girona},visitante:{nombre:Eibar},fecha:{dia:05/05/2018,hora:00:00},resultado:1-4}
-{local:{nombre:Villarreal},visitante:{nombre:Valencia},fecha:{dia:05/05/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Ath Madrid},visitante:{nombre:Espanol},fecha:{dia:06/05/2018,hora:00:00},resultado:0-2}
-{local:{nombre:Barcelona},visitante:{nombre:Real Madrid},fecha:{dia:06/05/2018,hora:00:00},resultado:2-2}
-{local:{nombre:Las Palmas},visitante:{nombre:Getafe},fecha:{dia:06/05/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Malaga},visitante:{nombre:Alaves},fecha:{dia:06/05/2018,hora:00:00},resultado:0-3}
-{local:{nombre:Leganes},visitante:{nombre:Levante},fecha:{dia:07/05/2018,hora:00:00},resultado:0-3}
-{local:{nombre:Barcelona},visitante:{nombre:Villarreal},fecha:{dia:09/05/2018,hora:00:00},resultado:5-1}
-{local:{nombre:Sevilla},visitante:{nombre:Real Madrid},fecha:{dia:09/05/2018,hora:00:00},resultado:3-2}
-{local:{nombre:Alaves},visitante:{nombre:Ath Bilbao},fecha:{dia:12/05/2018,hora:00:00},resultado:3-1}
-{local:{nombre:Betis},visitante:{nombre:Sevilla},fecha:{dia:12/05/2018,hora:00:00},resultado:2-2}
-{local:{nombre:Eibar},visitante:{nombre:Las Palmas},fecha:{dia:12/05/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Getafe},visitante:{nombre:Ath Madrid},fecha:{dia:12/05/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Girona},visitante:{nombre:Valencia},fecha:{dia:12/05/2018,hora:00:00},resultado:0-1}
-{local:{nombre:La Coruna},visitante:{nombre:Villarreal},fecha:{dia:12/05/2018,hora:00:00},resultado:2-4}
-{local:{nombre:Real Madrid},visitante:{nombre:Celta},fecha:{dia:12/05/2018,hora:00:00},resultado:6-0}
-{local:{nombre:Sociedad},visitante:{nombre:Leganes},fecha:{dia:12/05/2018,hora:00:00},resultado:3-2}
-{local:{nombre:Espanol},visitante:{nombre:Malaga},fecha:{dia:13/05/2018,hora:00:00},resultado:4-1}
-{local:{nombre:Levante},visitante:{nombre:Barcelona},fecha:{dia:13/05/2018,hora:00:00},resultado:5-4}
-{local:{nombre:Celta},visitante:{nombre:Levante},fecha:{dia:19/05/2018,hora:00:00},resultado:4-2}
-{local:{nombre:Las Palmas},visitante:{nombre:Girona},fecha:{dia:19/05/2018,hora:00:00},resultado:1-2}
-{local:{nombre:Leganes},visitante:{nombre:Betis},fecha:{dia:19/05/2018,hora:00:00},resultado:3-2}
-{local:{nombre:Malaga},visitante:{nombre:Getafe},fecha:{dia:19/05/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Sevilla},visitante:{nombre:Alaves},fecha:{dia:19/05/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Villarreal},visitante:{nombre:Real Madrid},fecha:{dia:19/05/2018,hora:00:00},resultado:2-2}
-{local:{nombre:Ath Bilbao},visitante:{nombre:Espanol},fecha:{dia:20/05/2018,hora:00:00},resultado:0-1}
-{local:{nombre:Ath Madrid},visitante:{nombre:Eibar},fecha:{dia:20/05/2018,hora:00:00},resultado:2-2}
-{local:{nombre:Barcelona},visitante:{nombre:Sociedad},fecha:{dia:20/05/2018,hora:00:00},resultado:1-0}
-{local:{nombre:Valencia},visitante:{nombre:La Coruna},fecha:{dia:20/05/2018,hora:00:00},resultado:2-1}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1503007200000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1503007200000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1503093600000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1503093600000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1503093600000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Getafe,id:Getafe},timeStamp:1503180000000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1503180000000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1503180000000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Levante,id:Levante}}],timeStamp:1503266400000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1503266400000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1503612000000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1503612000000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1503698400000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Girona,id:Girona}}],timeStamp:1503698400000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1503698400000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}}],timeStamp:1503698400000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1503784800000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1503784800000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1503784800000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1503784800000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1504821600000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1504908000000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Levante,id:Levante}}],timeStamp:1504908000000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1504908000000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Ath Madrid,id:Ath Madrid},timeStamp:1504908000000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1504994400000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Celta,id:Celta}}],timeStamp:1504994400000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1504994400000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Betis,id:Betis}}],timeStamp:1504994400000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Las Palmas,id:Las Palmas}}],timeStamp:1505080800000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1505426400000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1505512800000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:La Coruna,id:La Coruna}}],timeStamp:1505512800000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1505512800000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1505512800000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1505599200000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1505599200000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Las Palmas,id:Las Palmas}}],timeStamp:1505599200000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1505599200000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1505685600000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1505772000000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1505772000000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1505858400000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}}],timeStamp:1505858400000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Girona,id:Girona},timeStamp:1505858400000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Betis,id:Betis}}],timeStamp:1505858400000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1505858400000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1505944800000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}}],timeStamp:1505944800000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Espanol,id:Espanol},timeStamp:1505944800000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1506117600000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1506117600000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1506117600000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1506117600000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1506204000000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:La Coruna,id:La Coruna}}],timeStamp:1506204000000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1506204000000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1506204000000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1506204000000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}}],timeStamp:1506290400000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1506636000000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1506722400000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Ath Madrid,id:Ath Madrid},timeStamp:1506722400000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1506722400000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1506722400000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1506808800000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1506808800000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}}],timeStamp:1506808800000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1506808800000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1506808800000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Levante,id:Levante},timeStamp:1507845600000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1507932000000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1507932000000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1507932000000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1507932000000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1508018400000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:La Coruna,id:La Coruna},timeStamp:1508018400000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1508018400000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1508018400000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1508104800000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1508536800000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}}],timeStamp:1508536800000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1508536800000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1508536800000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1508623200000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1508623200000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1508623200000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1508623200000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1508709600000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1508709600000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1509141600000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1509141600000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1509141600000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1509141600000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}}],timeStamp:1509228000000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1509228000000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1509228000000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1509228000000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1509318000000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}}],timeStamp:1509318000000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1509663600000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1509750000000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1509750000000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1509750000000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1509750000000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1509836400000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1509836400000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1509836400000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1509836400000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1509836400000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1510873200000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Real Madrid,id:Real Madrid},timeStamp:1510959600000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1510959600000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1510959600000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1510959600000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1511046000000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1511046000000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}}],timeStamp:1511046000000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}}],timeStamp:1511046000000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1511132400000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Celta,id:Celta}}],timeStamp:1511478000000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1511564400000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1511564400000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1511564400000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Malaga,id:Malaga}}],timeStamp:1511564400000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1511650800000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Las Palmas,id:Las Palmas}}],timeStamp:1511650800000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1511650800000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1511650800000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1511737200000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Levante,id:Levante},timeStamp:1512082800000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Real Madrid,id:Real Madrid},timeStamp:1512169200000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1512169200000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1512169200000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1512169200000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1512255600000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1512255600000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Las Palmas,id:Las Palmas}}],timeStamp:1512255600000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1512255600000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1512342000000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1512687600000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Eibar,id:Eibar},timeStamp:1512774000000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}}],timeStamp:1512774000000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1512774000000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1512774000000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1512860400000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1512860400000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Malaga,id:Malaga}}],timeStamp:1512860400000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1512860400000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Girona,id:Girona}}],timeStamp:1512946800000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Levante,id:Levante},timeStamp:1513292400000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Sociedad,id:Sociedad},timeStamp:1513378800000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1513378800000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1513378800000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1513465200000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1513465200000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Girona,id:Girona}}],timeStamp:1513465200000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1513465200000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}}],timeStamp:1513551600000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Leganes,id:Leganes},timeStamp:1513638000000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1513724400000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1513724400000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1513810800000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1513810800000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1513897200000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1513897200000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1513983600000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1513983600000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1513983600000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1515193200000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1515193200000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}}],timeStamp:1515193200000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1515193200000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1515279600000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1515279600000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1515279600000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1515279600000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:La Coruna,id:La Coruna}}],timeStamp:1515279600000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1515366000000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1515711600000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1515798000000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1515798000000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1515798000000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1515798000000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1515884400000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1515884400000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Celta,id:Celta}}],timeStamp:1515884400000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1515884400000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1515970800000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1516316400000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1516402800000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1516402800000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1516402800000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Levante,id:Levante}}],timeStamp:1516402800000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1516489200000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1516489200000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:La Coruna,id:La Coruna}}],timeStamp:1516489200000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1516489200000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Malaga,id:Malaga}}],timeStamp:1516575600000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1516921200000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}}],timeStamp:1517007600000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Girona,id:Girona},timeStamp:1517007600000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1517007600000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1517007600000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1517094000000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1517094000000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1517094000000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1517094000000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}}],timeStamp:1517180400000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1517526000000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1517612400000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1517612400000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1517612400000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1517612400000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1517698800000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1517698800000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Leganes,id:Leganes},timeStamp:1517698800000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1517698800000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Las Palmas,id:Las Palmas}}],timeStamp:1517785200000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Las Palmas,id:Las Palmas},timeStamp:1518130800000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1518217200000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1518217200000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1518217200000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1518217200000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Getafe,id:Getafe},timeStamp:1518303600000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1518303600000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1518303600000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Levante,id:Levante}}],timeStamp:1518303600000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Betis,id:Betis}}],timeStamp:1518390000000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1518735600000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1518822000000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1518822000000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1518822000000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1518822000000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1518908400000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1518908400000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1518908400000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1518908400000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1518994800000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1519167600000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Espanol,id:Espanol},timeStamp:1519340400000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1519426800000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1519426800000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Las Palmas,id:Las Palmas},timeStamp:1519426800000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1519426800000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Malaga,id:Malaga}}],timeStamp:1519513200000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1519513200000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1519513200000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1519513200000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}}],timeStamp:1519599600000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1519686000000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Girona,id:Girona}}],timeStamp:1519686000000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1519772400000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1519772400000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1519772400000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1519772400000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1519772400000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1519858800000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Sociedad,id:Sociedad},timeStamp:1519858800000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1519858800000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1520031600000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1520031600000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1520031600000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1520031600000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1520031600000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1520118000000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1520118000000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1520118000000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1520118000000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Las Palmas,id:Las Palmas}}],timeStamp:1520204400000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1520550000000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1520636400000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Levante,id:Levante}}],timeStamp:1520636400000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1520636400000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1520636400000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1520722800000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1520722800000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1520722800000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1520722800000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}}],timeStamp:1520809200000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1521154800000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}}],timeStamp:1521241200000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:Las Palmas,id:Las Palmas}}],timeStamp:1521241200000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1521241200000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1521241200000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1521327600000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Malaga,id:Malaga},timeStamp:1521327600000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1521327600000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1521327600000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1521327600000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1522447200000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Levante,id:Levante}}],timeStamp:1522447200000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1522447200000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1522447200000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1522533600000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Sociedad,id:Sociedad},timeStamp:1522533600000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Alaves,id:Alaves},timeStamp:1522533600000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1522533600000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Malaga,id:Malaga}}],timeStamp:1522533600000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Betis,id:Betis}}],timeStamp:1522620000000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Malaga,id:Malaga}}],timeStamp:1522965600000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1523052000000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1523052000000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}}],timeStamp:1523052000000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1523052000000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Las Palmas,id:Las Palmas}}],timeStamp:1523138400000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1523138400000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1523138400000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1523138400000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1523224800000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Betis,id:Betis}}],timeStamp:1523570400000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}}],timeStamp:1523656800000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1523656800000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1523656800000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1523656800000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1523656800000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1523743200000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1523743200000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1523743200000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1523743200000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1523916000000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Sevilla,id:Sevilla},timeStamp:1523916000000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1523916000000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1524002400000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1524002400000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1524002400000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1524088800000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Betis,id:Betis}}],timeStamp:1524088800000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Levante,id:Levante}}],timeStamp:1524088800000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}}],timeStamp:1524088800000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:La Coruna,id:La Coruna},timeStamp:1524175200000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1524261600000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1524261600000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Betis,id:Betis},timeStamp:1524348000000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1524348000000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1524348000000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Malaga,id:Malaga}},{participante:{nombre:Malaga,id:Malaga}}],timeStamp:1524348000000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}}],timeStamp:1524434400000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1524780000000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Las Palmas,id:Las Palmas}}],timeStamp:1524866400000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1524866400000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1524866400000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Celta,id:Celta}}],timeStamp:1524866400000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1524952800000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Getafe,id:Getafe}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1524952800000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1524952800000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:Eibar,id:Eibar},timeStamp:1524952800000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Malaga,id:Malaga}}],timeStamp:1525039200000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1525384800000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Ath Bilbao,id:Ath Bilbao}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1525471200000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:La Coruna,id:La Coruna}}],timeStamp:1525471200000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1525471200000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1525471200000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1525557600000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1525557600000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1525557600000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}}],timeStamp:1525557600000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}}],timeStamp:1525644000000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1525816800000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1525816800000}
+{local:{nombre:Alaves,id:Alaves},visitante:{nombre:Ath Bilbao,id:Ath Bilbao},sucesos:[{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Alaves,id:Alaves}},{participante:{nombre:Ath Bilbao,id:Ath Bilbao}}],timeStamp:1526076000000}
+{local:{nombre:Betis,id:Betis},visitante:{nombre:Sevilla,id:Sevilla},sucesos:[{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Sevilla,id:Sevilla}},{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1526076000000}
+{local:{nombre:Eibar,id:Eibar},visitante:{nombre:Las Palmas,id:Las Palmas},sucesos:[{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1526076000000}
+{local:{nombre:Getafe,id:Getafe},visitante:{nombre:Ath Madrid,id:Ath Madrid},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}}],timeStamp:1526076000000}
+{local:{nombre:Girona,id:Girona},visitante:{nombre:Valencia,id:Valencia},sucesos:[{participante:{nombre:Valencia,id:Valencia}}],timeStamp:1526076000000}
+{local:{nombre:La Coruna,id:La Coruna},visitante:{nombre:Villarreal,id:Villarreal},sucesos:[{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:La Coruna,id:La Coruna}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}}],timeStamp:1526076000000}
+{local:{nombre:Real Madrid,id:Real Madrid},visitante:{nombre:Celta,id:Celta},sucesos:[{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1526076000000}
+{local:{nombre:Sociedad,id:Sociedad},visitante:{nombre:Leganes,id:Leganes},sucesos:[{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Sociedad,id:Sociedad}},{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Leganes,id:Leganes}}],timeStamp:1526076000000}
+{local:{nombre:Espanol,id:Espanol},visitante:{nombre:Malaga,id:Malaga},sucesos:[{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Espanol,id:Espanol}},{participante:{nombre:Malaga,id:Malaga}}],timeStamp:1526162400000}
+{local:{nombre:Levante,id:Levante},visitante:{nombre:Barcelona,id:Barcelona},sucesos:[{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}},{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1526162400000}
+{local:{nombre:Celta,id:Celta},visitante:{nombre:Levante,id:Levante},sucesos:[{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Celta,id:Celta}},{participante:{nombre:Levante,id:Levante}},{participante:{nombre:Levante,id:Levante}}],timeStamp:1526680800000}
+{local:{nombre:Las Palmas,id:Las Palmas},visitante:{nombre:Girona,id:Girona},sucesos:[{participante:{nombre:Las Palmas,id:Las Palmas}},{participante:{nombre:Girona,id:Girona}},{participante:{nombre:Girona,id:Girona}}],timeStamp:1526680800000}
+{local:{nombre:Leganes,id:Leganes},visitante:{nombre:Betis,id:Betis},sucesos:[{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Leganes,id:Leganes}},{participante:{nombre:Betis,id:Betis}},{participante:{nombre:Betis,id:Betis}}],timeStamp:1526680800000}
+{local:{nombre:Malaga,id:Malaga},visitante:{nombre:Getafe,id:Getafe},sucesos:[{participante:{nombre:Getafe,id:Getafe}}],timeStamp:1526680800000}
+{local:{nombre:Sevilla,id:Sevilla},visitante:{nombre:Alaves,id:Alaves},sucesos:[{participante:{nombre:Sevilla,id:Sevilla}}],timeStamp:1526680800000}
+{local:{nombre:Villarreal,id:Villarreal},visitante:{nombre:Real Madrid,id:Real Madrid},sucesos:[{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Villarreal,id:Villarreal}},{participante:{nombre:Real Madrid,id:Real Madrid}},{participante:{nombre:Real Madrid,id:Real Madrid}}],timeStamp:1526680800000}
+{local:{nombre:Ath Bilbao,id:Ath Bilbao},visitante:{nombre:Espanol,id:Espanol},sucesos:[{participante:{nombre:Espanol,id:Espanol}}],timeStamp:1526767200000}
+{local:{nombre:Ath Madrid,id:Ath Madrid},visitante:{nombre:Eibar,id:Eibar},sucesos:[{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Ath Madrid,id:Ath Madrid}},{participante:{nombre:Eibar,id:Eibar}},{participante:{nombre:Eibar,id:Eibar}}],timeStamp:1526767200000}
+{local:{nombre:Barcelona,id:Barcelona},visitante:{nombre:Sociedad,id:Sociedad},sucesos:[{participante:{nombre:Barcelona,id:Barcelona}}],timeStamp:1526767200000}
+{local:{nombre:Valencia,id:Valencia},visitante:{nombre:La Coruna,id:La Coruna},sucesos:[{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:Valencia,id:Valencia}},{participante:{nombre:La Coruna,id:La Coruna}}],timeStamp:1526767200000}

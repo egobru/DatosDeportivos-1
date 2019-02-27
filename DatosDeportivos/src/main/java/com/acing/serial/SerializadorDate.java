@@ -6,7 +6,7 @@ import java.util.Date;
 
 import javax.swing.text.html.HTMLDocument.HTMLReader.FormAction;
 
-import com.acing.eventos.Evento;
+import com.acing.eventos.Partido;
 import com.esotericsoftware.jsonbeans.Json;
 import com.esotericsoftware.jsonbeans.JsonSerializer;
 import com.esotericsoftware.jsonbeans.JsonValue;
