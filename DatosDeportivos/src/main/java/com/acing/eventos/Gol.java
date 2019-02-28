@@ -4,6 +4,10 @@ public class Gol extends Suceso {
 
 	private int minuto;
 	
+	public Gol() {
+		super(null);
+		minuto = 0;
+	}
 	
 	public Gol(int minuto, Participante anotador) {
 		super(anotador);

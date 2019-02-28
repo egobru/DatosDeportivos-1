@@ -70,21 +70,22 @@ public class SerializadorCSV implements EventoDAO{
 //		String resultado = golesLocal + "-" + golesVisitante;
 		
 		Partido miEvento = new Partido(local, visitante, fecha);
-		
+		miEvento.addGoles(golesLocal, golesVisitante);
 //		miEvento.setResultado(resultado);
-		addGoles(golesLocal, local, miEvento);
-		addGoles(golesVisitante, visitante, miEvento);
+//		addGoles(golesLocal, local, miEvento);
+//		addGoles(golesVisitante, visitante, miEvento);
 		
 		return miEvento;
 	}
 	
-	private static void addGoles(int numeroGoles, Participante equipo, Evento miEvento) {
-		for(int i = 0; i < numeroGoles; i++) {
-			Suceso gol = new Suceso();
-			gol.setParticipante(equipo);
-			miEvento.addSuceso(gol);
-		}
-	}
+//	private static void addGoles(int numeroGoles, Participante equipo, Evento miEvento) {
+//		for(int i = 0; i < numeroGoles; i++) {
+//			Suceso gol = new Suceso();
+//			gol.setParticipante(equipo);
+//			miEvento.addSuceso(gol);
+//		}
+//	}
+	//Este método aquí sobraría, no?? En todo caso su lugar es el gestor de sucesos.
 
 	
 	@Override

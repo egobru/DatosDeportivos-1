@@ -6,6 +6,7 @@ import java.util.Date;
 
 
 public class Partido extends EventoImpl implements EventoConGoles, GestorSucesos<Suceso> {
+	
 	private final static SimpleDateFormat sdfToString= new SimpleDateFormat("dd/MM/yy HH:mm");
 	private Participante local;
 	private Participante visitante;
@@ -101,34 +102,55 @@ public class Partido extends EventoImpl implements EventoConGoles, GestorSucesos
 		}
 	}
 
+	
 	@Override
 	public Collection<Suceso> getSucesosGestionados() {
-		// TODO Auto-generated method stub
-		return null;
+		return getSucesos();
 	}
 
 	@Override
 	public Collection<Suceso> getSucesosParticipante(Participante participante) {
-		// TODO Auto-generated method stub
-		return null;
+		Collection<Suceso> aux = new ArrayList<>();
+		for (Suceso s : getSucesos()) {
+			if(s.getParticipante().isEquals(participante)) {
+				aux.add(s);
+			}
+		}		
+		return aux;
 	}
 
 	@Override
-	public void addSucesoInterfaz(Suceso suceso) {
-		// TODO Auto-generated method stub
+	public void addSuceso(Suceso suceso) {
+		getSucesos().add(suceso);
+	}
+	
+	
+	public <T> void addSuceso(T suceso) {  //Ampliado al que figura en el interfaz.   
+		getSucesos().add((Suceso) suceso);//que al final tengo que castear a Suceso.
+	}
+	
+
+	@Override
+	public void addSuceso(Class<Suceso> tipoSuceso, Participante participante) {
+		try {
+			Suceso suceso = tipoSuceso.newInstance();//Instancia de la Clase que recibe por parámetro
+													//y, al coger constructor vacío, setteamos el participante.
+			suceso.setParticipante(participante);
+			getSucesos().add(suceso);
+		} catch (InstantiationException e) {	
+			e.printStackTrace();
+		} catch (IllegalAccessException e) {
+			e.printStackTrace();
+		}
 		
 	}
 
 	@Override
-	public void addSuceso(Suceso gol) {
-		getSucesos().add(gol);
+	public void addSuceso(Class<Suceso> tipoSuceso, int numero, Participante participante) {
 		
-	}
-
-	@Override
-	public void addSuceso(Suceso suceso, int numero, Participante participante) {
-		// TODO Auto-generated method stub
-		
+		for (int i=0; i<numero; i++) {
+			this.addSuceso(tipoSuceso, participante);
+		}
 	}
 	
 }
